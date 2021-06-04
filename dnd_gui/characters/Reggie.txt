@@ -1,0 +1,15 @@
+{
+"name": "Reggie",
+"level": 1,
+"xp": 0,
+"maxHP": 10,
+"ac": 12,
+"str": 8,
+"dex": 13,
+"con": 14,
+"int": 12,
+"wis": 10,
+"cha": 18,
+"speed": 30,
+"spellDC": 14
+}

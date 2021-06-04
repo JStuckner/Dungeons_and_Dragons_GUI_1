@@ -1,0 +1,39 @@
+# Map
+10 [-> _common]
+3 [-> _uncommon]
+1 [-> _rare]
+
+
+# _common
+Cabin
+Farm
+Village
+Cave with 1d4 caverns
+Tomb/Cemetary
+Small Forest
+River
+
+# _uncommon
+Monument
+Small town
+Military patrol
+Mine
+Shrine
+Temple
+Prison
+Sewer
+Town
+Enchanged Forrest
+Storage Vault
+
+# _rare
+Mage tower with 2d4 stories
+Castle
+Small City
+City
+Lair
+Palace
+A maze
+Doors of Truth and Lying
+Game of life puzzle
+

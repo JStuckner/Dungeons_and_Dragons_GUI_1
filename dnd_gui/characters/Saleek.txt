@@ -1,0 +1,17 @@
+{
+"name": "Saleek",
+"level": 10,
+"xp": 500,
+"maxHP": 73,
+"ac": 18,
+"str": 12,
+"dex": 20,
+"con": 14,
+"int": 10,
+"wis": 16,
+"cha": 8,
+"bonuscarry": 0,
+"speed": 50,
+"spellDC": 14,
+"init": 3
+}

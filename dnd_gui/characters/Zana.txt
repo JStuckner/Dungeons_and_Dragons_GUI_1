@@ -1,0 +1,17 @@
+{
+"name": "Zana",
+"maxHP": 73,
+"level": 10,
+"xp": 0,
+"ac": 18,
+"str": 10,
+"dex": 20,
+"con": 16,
+"int": 18,
+"wis": 13,
+"cha": 12,
+"bonuscarry": 0,
+"speed": 25,
+"spellDC": 14,
+"init": 0
+}

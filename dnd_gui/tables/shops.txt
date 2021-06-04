@@ -1,0 +1,362 @@
+# shops
+40 [-> _shops]
+16 [-> _shops] - Cheap
+16 [-> _shops] - Expensive
+8 [-> _shops] - Syndicate 2d10 % Off
+3 [-> _shops] - Cheap - Syndicate 2d10 % Off
+3 [-> _shops] - Expensive - Syndicate 2d10 % Off
+
+
+# _shops
+10 Blacksmith/Armory
+10 Flether/Bower
+10 Leatherworker
+10 Temple/Faith Supplies
+10 General Store
+10 Adventuring Supplies
+10 Art and Games
+10 Jeweler/Stonecutter
+10 Tailor/Textiles
+10 Potion Shop
+10 Arcane Shop
+5 Rare Potion Shop
+5 Ring Shop
+
+# RarePotion
+20 Low stock 1d4 uncommon
+20 Low stock 2d4 uncommon
+10 Well stocked 1d6 uncommon, 1d4 rare
+10 Well stocked 2d6 uncommon, 2d4 rare
+3 Extraordinary 2d10 uncommon, 1d6 rare, 1d4 very rare
+1 Extraordinary 2d10 uncommon, 2d6 rare, 2d4 very rare
+
+# RareRing
+20 Low stock 1d4 uncommon
+20 Low stock 2d4 uncommon
+10 Well stocked 1d6 uncommon, 1d4 rare
+10 Well stocked 2d6 uncommon, 2d4 rare
+3 Extraordinary 2d10 uncommon, 1d6 rare, 1d4 very rare
+1 Extraordinary 2d10 uncommon, 2d6 rare, 2d4 very rare
+
+# BaseArmor
+Padded 5 gp
+Leather 10 gp 
+Studded leather 45 gp 
+Hide 10 gp 
+Chain shirt 50 gp 
+Seale mail 50 gp 
+Breastplate 400 gp 
+Half plate 750 gp 
+Ring mail 30 gp 
+Chain mail 75 gp 
+Splint 200 gp 
+Plate 1,500 gp  
+Shield 10 gp 
+
+# BaseWeapons
+Club 1 sp
+Dagger	2 gp
+Greatclub 2 sp
+Handaxe	5 gp
+Light Hammer 2 gp
+Quarterstaff 2 sp	
+Crossbow, Light	25 gp
+Dart 5 cp
+Shortbow 25 gp
+Sling 1 sp
+Quarterstaff 2 sp
+Javelin	5 sp
+Mace 5 gp
+Sickle 1 gp
+Spear 1 gp
+Battleaxe 10 gp
+Flail 10 gp
+Glaive 20 gp
+Greataxe 30 gp
+Greatsword 50 gp
+Halberd	20 gp
+Lance 10 gp
+Longsword 15 gp
+Maul 10 gp
+Morningstar 15 gp
+Pike 5 gp
+Rapier 25 gp
+Scimitar 25 gp
+Shortsword 10 gp
+Trident	5 gp
+War Pick 5 gp
+Warhammer 15 gp	
+Crossbow, Hand	75 gp
+Crossbow, Heavy	50 gp
+Longbow	50 gp
+
+# BaseAmmo
+Arrows (20) 1 gp
+Crossbow Bolts (20) 1 gp
+
+# BaseGear
+Ball Bearings (bag of 1,000) 1 gp
+Bell 1 gp
+Block and Tackle 1 gp
+Chain (10 feet)	5 gp
+Crowbar	2 gp
+Grappling Hook 2 gp
+Hammer	1 gp
+Hammer, Sledge 2 gp
+Hunting Trap 5 gp
+Lamp 5 sp
+Lantern, Bullseye 10 gp
+Lantern, Hooded	5 gp
+Lock 10 gp
+Manacles 2 gp
+Mirror, Steel 5 gp
+Pick, Miner's 2 gp
+Piton 5 cp
+Pot, Iron 2 gp
+Spikes, Iron 1 gp
+Whetstone 1 cp
+Carpenter's Tools 8 gp
+Mason's Tools 10 gp
+Smith's Tools 20 gp
+Tinker's Tools 50 gp	
+Horn 3 gp	
+Case, Crossbow Bolt 1 gp
+Quiver	1 gp
+Waterskin 2 sp
+Alms Box 5 gp
+Bell 1 gp
+Blanket	5 sp
+Book, Scripture	25 gp
+Candle 1 cp
+Case, Map or Scroll 1 gp
+Censer 5 gp
+Chalk (1 piece)	1 cp
+Flask 2 cp
+Healer's Kit 5 gp
+Amulet 5 gp
+Emblem 5 gp
+Reliquary 5 gp
+Holy Water (flask) 25 gp
+Incense (1 block) 1 cp
+Ink (1 ounce bottle) 10 gp
+Ink Pen	2 cp
+Lamp 5 sp
+Lantern, Hooded	5 gp
+Oil (flask) 1 sp
+Paper (one sheet) 2 sp
+Parchment (one sheet) 1 sp
+Perfume (vial)	5 gp
+Potion of Healing 50 gp
+Rations (1 day)	5 sp
+Torch 1 cp
+Vial 1 gp
+Waterskin 2 sp	
+Calligrapher's Supplies	10 gp
+Herbalism Kit 5 gp	
+Flute 2 gp
+Lyre 30 gp
+Horn 3 gp
+Abacus 2 gp
+Barrel 2 gp
+Blanket	5 sp
+Bottle, glass 2 gp
+Bucket 5 cp
+Candle 1 cp
+Chest 5 gp
+Clothes, Common	5 sp
+Clothes, Fine 15 gp
+Flask or Tankard 2 cp
+Hammer 1 gp
+Ink (1 ounce bottle) 10 gp
+Ink Pen	2 cp
+Jug or Pitcher 2 cp
+Ladder (10-foot) 1 sp
+Lantern, Hooded	5 gp
+Lamp 
+Lock 10 gp
+Mess Kit 2 sp
+Mirror, Steel 5 gp
+Paper (one sheet) 2 sp
+Parchment (one sheet) 1 sp
+Pick, Miner's 2 gp
+Pot, Iron 2 gp
+Pouch 5 sp
+Rope, Hempen (50 feet) 1 gp
+Rope, Silk (50 feet) 10 gp
+Sack 1 cp
+Scale, Merchant's 5 gp
+Shovel 2 gp
+Signet Ring 5 gp
+Soap 2 cp
+Vial 1 gp
+Carpenter's Tools 15 gp
+Cobbler's Tools	25 gp
+Cook's Utensils	50 gp
+Glassblower's Tools 30 gp
+Leatherworker's Tools 5 gp
+Mason's Tools 10 gp
+Potter's Tools 10 gp
+Smith's Tools 20 gp
+Weaver's Tools	1 gp
+Woodcarver's Tools 1 gp
+Lock 10 gp
+Mess Kit 2 sp
+Mirror, Steel 5 gp
+Paper (one sheet) 2 sp
+Parchment (one sheet) 1 sp
+Pick, Miner's 2 gp
+Piton 5 cp
+Pole (10-foot)	5 cp
+Pot, Iron 2 gp
+Pouch 5 sp
+Quiver 1 gp
+Rations (1 day)	5 sp
+Rope, Hempen (50 feet)	1 gp
+Rope, Silk (50 feet) 10 gp
+Sack	1 cp
+Shovel	2 gp
+Signal Whistle	5 cp
+Signet Ring	5 gp
+Spyglass	1000 gp
+Tent, Two-person	2 gp
+Tinderbox	5 sp
+Torch	1 cp
+Vial	1 gp
+Waterskin	2 sp
+[Tools]	
+Artisan's Tools	
+Cartographer's Tools	15 gp
+Jeweler's Tools	25 gp
+Tinker's Tools	50 gp
+Herbalism Kit	5 gp
+Navigator's Tools	25 gp
+Acid (vial)	25 gp
+Antitoxin (vial)	50 gp
+Caltrops (bag of 20)	1 gp
+Clothes, Costume	5 gp
+Manacles	2 gp
+Oil (flask)	1 sp
+Poison, Basic (vial)	100 gp
+Ram, Portable	4 gp
+Spikes, Iron (10)	1 gp
+[Tools]	
+Disguise Kit	25 gp
+Forgery Kit	15 gp
+Gaming Set	
+Dice Set	1 sp
+Playing Card Set	5 sp
+Poisoner's Kit	50 gp
+Thieves' Tools	25 gp
+Artisan's Tools	
+Calligrapher's Supplies	10 gp
+Glassblower's Tools	30 gp
+Painter's Supplies	10 gp
+Potter's Tools	10 gp
+Weaver's Tools	1 gp
+Woodcarver's Tools	1 gp
+Disguise Kit	25 gp
+Gaming Set	
+Dice Set	1 sp
+Dragonchess Set	1 gp
+Playing Card Set	5 sp
+Three-Dragon Ante Set	1 gp
+Backpack	2 gp
+Basket	4 sp
+Bedroll	1 gp
+Blanket	5 sp
+Acid (vial)	25 gp
+Alchemist's Fire (flask)	50 gp
+Antitoxin (vial)	50 gp
+Bottle, glass	2 gp
+Component Pouch	25 gp
+Flask	2 cp
+Healer's Kit	5 gp
+Ink (1 ounce bottle) 10 gp
+Jug 2 cp
+Oil (flask) 1 sp
+Perfume (vial) 5 gp
+Poison, Basic (vial) 100 gp
+Potion of Healing 50 gp
+Vial	1 gp
+Cook's Utensils	1 gp
+Poisoner's Kit	50 gp
+Druidic Focus	
+Sprig of Mistletoe	1 gp
+Totem	1 gp
+Wooden Staff	5 gp
+Yew Wand	10 gp
+Hourglass	25 gp
+Ink (1 ounce bottle)	10 gp
+Ink Pen	2 cp
+Paper (one sheet)	2 sp
+Parchment (one sheet)	1 sp
+Pouch	5 sp
+Robes	1 gp
+Spellbook 50 gp
+Vial	1 gp
+Arcane Focus	
+Crystal	10 gp
+Orb 20 gp
+Rod 10 gp
+Staff 5 gp
+Wand 10 gp
+Bottle, glass 2 gp
+Candle 1 cp
+Case, Map or Scroll 1 gp
+Component Pouch	25 gp
+Sprig of Mistletoe 1 gp
+Totem 1 gp
+Wooden Staff 5 gp
+Yew Wand 10 gp
+Hourglass 25 gp
+Ink (1 ounce bottle)	10 gp
+Ink Pen	2 cp
+Paper (one sheet) 2 sp
+Parchment (one sheet) 1 sp
+Pouch 5 sp
+Robes 1 gp
+Spellbook 50 gp
+Vial	1 gp
+
+
+# BaseArtisan
+Alchemist's Supplies 50 gp
+Calligrapher's Supplies	10 gp
+Brewer's Supplies	20 gp
+Cobbler's Tools	5 gp
+Leatherworker's Tools 5 gp
+
+# BaseMusic	
+Bagpipes 30 gp
+Drum 6 gp
+Dulcimer 25 gp
+Flute 2 gp
+Lute 35 gp
+Lyre 30 gp
+Horn 3 gp
+Pan Flute 12 gp
+Shawn 2 gp
+Viol 30 gp
+
+	
+# Spell Scrolls
+Common (Cantrip) 50 gp
+Common (Level 1) 100 gp
+Uncommon (Level 2) 250 gp
+Uncommon (Level 3) 500 gp
+Rare (Level 4) 2500 gp
+Rare (Level 5) 5000 gp
+
+# BaseServices
+Cure Wounds (lvl 1) 10 gp
+Gentle Repose (lvl 2) 50 gp
+Lesser Restoration (lvl 2) 50 gp
+Remove Curse (lvl 3) 100 gp
+Revivify (lvl 3) 400 gp
+Raise Dead (lvl 5) 1000 gp
+Magic Appraisal (Identify) 100 gp
+
+# BasePotions
+100 Common 50 gp
+10 Uncommon 250 gp
+Rare 2500 gp

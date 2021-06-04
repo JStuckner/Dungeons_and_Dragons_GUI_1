@@ -1,0 +1,1239 @@
+# Random Dungeon
+This place is (or was) a {[-> _rd1]} built by {[-> _rd2]} and located {[-> _rd3]}.\n  The place is currently occupied by {[-> _rd4]} and some {[-> _rd5]}.\n  If you survive the {[-> _rd6]}, you might recover the {[-> _rd7]}\n
+
+# Castle
+The castle sits {[-> _cas1]}.\n  It was built by {[-> _cas2]} {[-> _cas3]}.\n  Currently, the castle's condition is {[-> _cas4]}.\n  It is occupied by {[-> _cas5]}.\n  The position or territory is worth defending because {[-> _cas6]}.\n  The outer defences include {[-> _cas7]}.\n  The inner defences include {[-> _cas8]}.\n  The castle can be held effectivily by as few as {[-> _cas9]}.\n  In addition to its garrison, the castle can hold enough food to survive a 3 month seige for up to {[-> _cas10]}.\n  The castle is known for {[-> _cas11]}.\n  {[-> _cas12]} is rumored to be inside the castle.\n  ENCOUNTERS: if under seige you come upon {[-> _cas13]}.\n  At peace, {[-> _cas14]}.\n
+
+# MageTower
+The master of the tower is {[-> _mt1]}\n The tower's shape is {[-> _mt2]}\n  It is built of {[-> _mt3]} with {[-> _mt4]} on the outside.\n  The entrance is guarded by {[-> _mt5]}\n  The most well-protected room in the tower is {[-> _mt6]}.\n  The room is protected by {[-> _mt7]}\n  Rumor has it that within the walls the master keeps {[-> _mt8]}\n
+
+# _mt1
+An elven sorceress.
+A terrifying witch.
+A creepy necromancer.
+A mystic seer.
+A long-bearded sage.
+A half-mad elementalist.
+A legendary conjurer.
+A retired explorer.
+The leader of a cabal of tricky witches.
+The head of a secret society of wizards.
+
+# _mt2
+A cylinder.
+A pyramid.
+A stepped pyramid.
+A cone.
+A triangular prism.
+A rectangular prism.
+A pentagonal prism.
+A hexagonal prism.
+An octagonal prism.
+An icosahedron.
+
+# _mt3
+Clay bricks.
+Limestone.
+Sandstone.
+Marble.
+Obsidian.
+Enchanted wood.
+Crystal.
+Bones.
+Granite.
+Solid gold.
+
+# _mt4
+Spider webs.
+Ooze.
+Fruit-bearing vines.
+Thorny vines.
+Extensive repairs.
+Ancient hieroglyphs.
+Arcane runes.
+Steel plates.
+Scorch marks.
+Scratch marks.
+
+# _mt5
+An ill-tempered dragon.
+A watchful golem (d6): 1. bone; 2. chain; 3. clay; 4. flesh; 5. iron; 6. stone.
+An angry giant (d6): 1. eldritch; 2. fire; 3. frost; 4. shadow; 5. stone; 6. storm.
+Cruel gargoyles.
+Terrifying elementals (d6): 1. air; 2. earth; 3. fire; 4. ice; 5. storm; 6. water.
+Undead minions (d6): 1. ghosts; 2. ghouls; 3. phantom warriors; 4. spectres; 5. wights; 6. zombies.
+Devious traps.
+A cunning sphinx.
+A ferocious, talking beast (d6): 1. bear; 2. griffon; 3. eagle; 4. lion; 5. serpent; 6. wolf.
+A menacing, tentacled beast.
+
+# _mt6
+The mage's laboratory.
+The mage's library.
+The mage's bedchamber.
+The mage's wine cellar.
+The mage's treasure vault.
+A chamber specially prepared for divination rituals.
+A chamber specially prepared for summoning rituals.
+A chamber specially prepared for magical duels.
+An inescapable prison.
+The crypt of someone important to the mage (d6): 1. master; 2. teacher; 3. child; 4. parent; 5. lover; 6. vanquished rival.
+
+# _mt7
+A gauntlet of mechanical traps.
+A series of sophisticated magical traps.
+An exploding ward.
+A powerful charm that makes it easy to ignore.
+A powerful charm that makes it impossible for intruders to open the door.
+Illusions that make it difficult to find the door.
+A powerful curse that frightens those who approach the door.
+A powerful curse that causes pain in those who approach the door.
+An indefatigable construct.
+A bound guardian (d6): 1. devil; 2. demon; 3. elemental; 4. enchanted beast; 5. troll; 6. wraith.
+
+# _mt8
+The weapon of a storied hero.
+The staff of an infamous sorcerer or necromancer.
+The wand of a famous witch or wizard.
+The spellbook of a notorious magic-user.
+The artifacts of an elvish hero.
+Monstrosities of the mage's own creation.
+A legendary stone, mirror, or pool used for watching the world from afar.
+A fabled book of dangerous lore (d6): 1. demonology; 2. curses of undeath; 3. dream travel; 4. love and war; 5. planar portals; 6. vile darkness.
+An imprisoned being of terrible power (d6): 1. aberration; 2. devil; 3. demon; 4. djinni; 5. efreeti; 6. vampire lord.
+A captive princess.
+
+# Mine
+The mine is a source of {[-> _mine1]}\n  The entrance is {[-> _mine2]}\n  Most of the mine is {[-> _mine3]}\n  Material excavated from the mine is {[-> _mine4]}\n  The hazard is {[-> _mine5]}\n  Deep within are {[-> _mine6]} which are {[-> _mine7]}\n  The miners complain of a nearbye colony of {[-> _mine8]}\n  Distinguishing landmarks are {[-> _mine9]}\n  In the mine you notice {[-> _mine10]}\n The mine is widely believed to be {[-> _mine11]}\n The mine is controlled by {[-> _mine12]}\n  Most of the miners are {[-> _mine13]}\n
+
+# _mine1
+Chalk.
+Coal.
+Copper.
+Gold.
+Iron.
+Lead.
+Lime.
+Nickel.
+Platinum.
+Salt.
+Silver.
+Zinc.
+Diamonds.
+Emeralds.
+Jade.
+Rubies.
+Sapphires.
+Turquoise.
+Other gems (d6): 1. amethyst; 2. aquamarine; 3. garnet; 4. opal; 5. peridot; 6. tanzanite; 7. topaz, 8. zirconium.
+An especially rare metal (d3): 1. adamantine; 2. mithral; 3. orium.
+
+# _mine2
+Up a winding trail from a camp or village.
+Up a steep trail from a camp or village.
+A wide, natural cave mouth.
+A wide open pit.
+An easy to spot, narrow passage.
+A steep, slippery sloped tunnel.
+A tunnel reinforced with wood beams.
+A partially collapsed tunnel, impassable without excavation.
+Marked with several signs.
+Hidden by the terrain (d4): 1. boulders; 2. waterfall; 3. rocky overhang; 4. hillock.
+Hidden by vegetation (d4): 1. a briar patch; 2. a curtain of moss; 3. enormous tree roots; 4. overgrown vines.
+Difficult to access (d4): 1. up or down a cliff face; 2. down a deep hole; 3. un an underwater tunnel; 4. through an illusory rock or wall.
+
+# _mine3
+A sprawling maze of twisting tunnels.
+A sprawling maze of narrow tunnels.
+A series of tunnels connecting large natural caverns.
+A wide open-pit quarry.
+A series of tunnels connecting large open pits or sinkholes.
+A sprawling maze of open trenches.
+
+# _mine4
+Floated on rafts down a stream or river.
+Hauled out on pack mules.
+Hauled out on mule-drawn carts.
+Hauled out on sure-footed ponies.
+Hauled out on ox-drawn carts.
+Hauled out on the backs of uncommon beasts of burden (d4): 1. bears; 2. giant lizards; 3. goats; 4. undead horses.
+Rolled out in single mine carts.
+Rolled out in long trains of mine carts.
+
+# _mine5
+A colony of poisonous mushrooms.
+A patch of toxic mold.
+A sudden cave in.
+Several rocks tumble down a sloped wall.
+The floor is very slippery.
+Your foot misses the floor as you step into a pit or chasm.
+A heap of unstable explosives.
+A sudden explosion in another part of the mine shakes the floor.
+The floor is writhing with vermin (d4): 1. beetles; 2. centipedes; 3. rats; 4. spiders.
+The tunnel or trench is steadily flooding.
+
+# _mine6
+Carrion crawler.
+Cloaker.
+Darkmantle.
+Drider.
+Fungi.
+Gargoyle.
+Ghosts.
+Gricks.
+Hook horror.
+Mimics.
+Myconids.
+Ooze.
+Otyugh.
+Piercer.
+Roper.
+Rust monster.
+Skeletons.
+Stirges.
+Umber hulk.
+Wraith.
+
+# _mine7
+A predator or a hunter.
+A food source for other denizens.
+A recently-arrived squatter or invader.
+A long-time resident.
+A parasite or a scavenger.
+A host or the dominant species.
+Unusually abundant.
+Living in deliberate isolation.
+Living in unintentional isolation.
+Severely out of place in this mine.
+
+# _mine8
+Cyclops.
+Duergar.
+Dwarves.
+Elves, dark.
+Gnomes, deep.
+Goblins.
+Grimlocks.
+Hobgoblins.
+Kobolds.
+Orcs.
+Troglodytes.
+Trolls.
+
+# _mine9
+A trickle of water flowing down the walls and across the floor.
+An underground lake of potable water.
+A pool of stagnant water.
+A rickety bridge over a chasm.
+A narrow chasm with walls close enough to climb between.
+A deep chasm with no bottom in sight.
+A group of boulders arranged in a circle.
+A damp wall covered in soft mold.
+A recess in the wall, covered in slimy mold.
+A large patch of soft fungus.
+A cavern with a strong echo.
+A claustrophobic tunnel with a low ceiling.
+A forked path with tracks for mine carts.
+An overturned mine cart.
+An unlit lantern mounted to the wall.
+A glowing lantern mounted to the wall.
+A swirling vein of ore visible in the wall.
+A wide vein of ore visible in the wall.
+A partially excavated wall with plentiful ore.
+A heap of excavated rock.
+
+# _mine10
+Some broken mining equipment.
+Some old dry bones.
+Evidence of a recent, brief encampment.
+Evidence of an abandoned campsite.
+An enormous spider web.
+A wide slippery patch of mold on the floor.
+The clatter of rocks falling.
+Loose stones underfoot.
+The clang of a pick breaking rock.
+The distant sound of hammers at work.
+A prospector’s mark scratched on the wall.
+A cracked wooden beam overhead.
+
+# _mine11
+Full of riches.
+A productive place to dig.
+Becoming increasingly unprofitable.
+Nearly dried up.
+
+# _mine12
+A powerful, well-known merchant guild.
+A wealthy noble house.
+A partnership of a few prospectors.
+A clan or collective of locals.
+No one in particular; finders keepers.
+A shadowy cabal of merchants.
+A vicious warlord or mercenary captain.
+A crime boss who’s never visited the site.
+
+# _mine13
+Free men working for wages.
+Low-level members of a guild.
+Paid with a fraction of what they haul out.
+Paid with credit at a merchant’s store.
+Prisoners.
+Slaves.
+
+# Cave
+The cave mouth is {[-> _cave1]}\n The following creatures live in the cave {[List 1d4 -> _cave2]}\n  In the cave you see {[-> _cave3]}\n  You eventually notice {[-> _cave4]}\n  The cave walls are {[-> _cave5]}\n  The ceiling is {[-> _cave6]}\n A hazard is {[-> _cave7]}\n You eventually come across {[-> _cave8]}\n
+
+# _cave1
+Wide and tall, letting much daylight into the entry chamber.
+A wide sinkhole.
+An easy to spot, narrow passage.
+A steep, slippery sloped tunnel.
+A man-made tunnel.
+A collapsed tunnel, impassable without excavation.
+Marked with several warning signs.
+Hidden by the terrain (d4): 1. some boulders; 2. a waterfall; 3. a rocky overhang; 4. a hillock.
+Hidden by vegetation (d4): 1. a briar patch; 2. a curtain of moss; 3. enormous tree roots; 4. overgrown vines.
+Difficult to access (d4): 1. up or down a cliff face; 2. down a deep hole. 3. in an underwater tunnel. 4. through an illusory rock or wall.
+
+# _cave2
+Bullywug.
+Carrion crawler.
+Chuul.
+Cloaker.
+Crawling claw.
+Cyclops.
+Darkmantle.
+Shadow dragon.
+Drider.
+Duergar.
+Elves, dark.
+Ettin.
+Fomorian.
+Fungi.
+Galeb duhr.
+Gargoyle.
+Ghost.
+Ghoul.
+Giant, hill.
+Giant, stone.
+Gibbering mouther.
+Goblins.
+Grell.
+Grick.
+Grimlock.
+Hobgoblins.
+Hook Horror.
+Kobolds.
+Mephits.
+Mimic.
+Myconids.
+Ogres.
+Oozes.
+Orcs.
+Otyugh.
+Piercer.
+Purple worm.
+Roper.
+Rust monster.
+Shadow.
+Skeleton.
+Spectre.
+Stirge.
+Troglodyte.
+Troll.
+Umber hulk.
+Wraith.
+Xorn.
+Yuan-ti.
+Zombies.
+
+# _cave3
+A trickle of water flowing down the walls and across the floor.
+An underground lake of potable water.
+A pool of stagnant water.
+A natural bridge over a chasm.
+A narrow chasm with walls close enough to climb between.
+A deep chasm with no bottom in sight.
+A shaft in the ceiling with no light coming from it.
+A shaft in the ceiling with dim light coming from it.
+A group of stalagmites arranged in a circle.
+An arrangement of two large stalactites and two large stalagmites, reminiscent of fangs in a yawning mouth.
+A pair of natural columns.
+A large stalactite that has broken off from the ceiling and fallen to the floor.
+An array of many small stalactites spreading across the ceiling.
+A damp wall covered in soft mold.
+A recess in the wall, covered in slimy mold.
+A large patch of glowing fungus.
+A large patch of small mushrooms.
+A group of enormous mushrooms.
+A large cavern with a strong echo.
+A claustrophobic tunnel with a low ceiling.
+
+# _cave4
+A cache of abandoned, decrepit mining equipment.
+Some old dry bones.
+Many bones underfoot.
+Evidence of a recent encampment.
+An enormous spider web.
+A wide slippery patch of mold on the floor.
+The clatter of rocks falling.
+Loose stones underfoot.
+An unstable ceiling.
+A distant sound—a scream, hammers at work, footsteps, or drums.
+The name of a previous traveler carved into a wall.
+Several ancient runes carved into the wall.
+
+# _cave5
+Slightly damp.
+Dripping wet.
+Slick with mold.
+Covered in soft fungi.
+Dry as a bone.
+Rough and dry.
+Dry and smooth.
+Jagged.
+Pockmarked.
+Crumbling, with loose bits flaking off.
+Crumbling, with large chunks falling off at a touch.
+Covered in an unidentifiable slime.
+
+# _cave6
+Uncomfortably close to your head.
+Covered in stalactites (watch your head!).
+Smooth as glass.
+Rough and jagged.
+Connected to the floor by natural columns.
+So high it’s difficult to see.
+
+# _cave7
+A colony of poisonous mushrooms.
+A patch of toxic mold.
+The ceiling caves in.
+Several rocks tumble down a sloped wall.
+The floor is very slippery.
+Your foot misses the floor as you step into a pit or chasm.
+
+# _cave8
+An explorer (d4): 1. duergar; 2. goblin; 3. human; 4. kobold.
+An escaped slave (d6): 1. dwarf; 2. goblin; 3. gnome; 4. halfling; 5. human; 6. kobold.
+A forager (d4): 1. duergar; 2. goblin; 3. kobold; 4. orc.
+A fugitive criminal (d4): 1. heretic; 2. killer; 3. smuggler; 4. thief.
+A lost treasure hunter (d4): 1. dwarf; 2. half-elf; 3. high elf; 4. human.
+A mapmaker (d4): 1. dwarf; 2. goblin; 3. gnome; 4. svirfneblin.
+A messenger (d4): 1. dark elf; 2. goblin; 3. gnome; 4. svirfneblin.
+A miner (d6): 1. dwarf; 2. gnome; 3. goblin; 4. human; 5. kobold; 6. svirfneblin.
+A prospector (d4): 1. dwarf; 2. gnome; 3. human; 4. svirfneblin.
+A scout (d4): 1. dark elf; 2. goblin; 3. kobold; 4. orc.
+A soldier (d6): 1. dark elf; 2. duergar; 3. dwarf; 4. goblin; 5. kobold; 6. orc.
+A spy (d4): 1. dark elf; 2. duergar; 3. goblin; 4. kobold.
+
+
+
+# Forest
+The interesting location is {[-> _for1]}\n  Upon entering the forest, you see {[-> _for2]}\n You notice {[-> _for3]}\n Many of the trees in the forest are {[-> _for4]}\n You encounter {[-> _for5]}\n 
+
+# _for1
+A cavern behind a waterfall. Inside is [-> _for1a]
+A small cave in the bank of a creek. Inside is [-> _for1a]
+An entrance to a rocky cave.  Inside is [-> _for1a]
+A hole under a large tree.  Inside is [-> _for1g]
+A large burrow.  Inside is [-> _for1g]
+A peculiar cottage where [-> _for1b] lives.
+A woodsman's cabin.
+An abandoned cabin where [-> _for1c] used to live but [-> _for1d] now resides.
+An abandoned campsite.
+A sacred grove.
+A grave with an illegible headstone.
+Ancient ruins built by [-> _for1e]  Now [-> _for1f] lives in the ancient ruins.
+
+# _for1a
+A bear’s lair.
+Lots of bats.
+Many spider webs.
+A troll's stash.
+An ogre's lair.
+Some goblins' hideout.
+Some abandoned mining equipment.
+Bare rock.
+A potable spring.
+Unidentifiable remains.
+Some outlaws’ hideout.
+A strange hermit.
+
+# _for1b
+A lonely old woman
+A reclusive shapeshifter
+An eccentric healer
+A beautiful witch
+A horrible witch
+An outcast dwarf
+
+# _for1c
+A lonely old woman
+A reclusive scholar
+an eccentric healer
+A poor woodcutter
+A fur trader
+A dwarf prospector
+
+# _for1d
+An owlbear
+An ogre
+A troll
+A mad witch
+A paranoid shapeshifter
+Restless ghosts
+
+# _for1e
+Dwarvish miners.
+A wood elf king.
+A high elf prince.
+A dragon cult.
+A death cult.
+Shadow monks.
+A long-dead emperor.
+A forgotten king.
+An evil queen.
+A dark sorcerer.
+
+# _for1f
+A dwarf prospector
+A wood elf druid
+Poisonous snakes
+Giant spiders
+Hungry zombies
+Restless ghosts
+A handful of ogres
+Some irritable trolls
+A pair of manticores
+A dragon.
+
+# _for1g
+A snake
+A spider
+A badger
+Earthworms
+A centipede
+Unusual fungus
+
+
+# _for2
+A fruit tree.
+A large, hollow tree.
+A pair of trees from the same root.
+A tree growing over a boulder.
+A clearing with wildflowers.
+A grassy clearing.
+A moss-covered boulder.
+A thicket of brambles.
+A babbling brook.
+A brook in a deep ravine.
+A brook, with gentle rapids.
+A dry creekbed.
+A small pool at a creek's bend.
+A patch of mushrooms.
+An enormous mushroom.
+A large, hollow log.
+A large, rotting log.
+A tree felled by lightning.
+An old gnarled tree.
+
+# _for3
+A flock of birds scatter.
+A hawk cries.
+A woodpecker drumming.
+An owl hoots.
+Birds chirping.
+A chipmunk scurrying.
+A deer dashes away.
+A deer watches curiously.
+A squirrel leaps from one tree to another.
+A wolf howls.
+Butterflies fluttering about.
+Squirrels chittering.
+An eerie silence.
+The breeze stops.
+The wind blows harder.
+A twig snaps.
+Brightly, colored berries.
+Leaves rustling.
+The scent of flowers.
+The smell of decay.
+
+# _for4
+Apple or pear trees.
+Ashes.
+Birches.
+Beeches.
+Cedars or junipers.
+Cherry or plum trees.
+Chestnut or hazel trees.
+Cypresses.
+Elms.
+Firs.
+Hawthorns or hemlocks.
+Hickory or walnut trees.
+Linden or lime trees.
+Maples.
+Oaks.
+Pines.
+Poplars.
+Spruces.
+Willows.
+Yew or holly trees.
+
+
+# _for5
+A large bear.
+A bear cub.
+A giant spider.
+Several giant spiders.
+A pack of wolves.
+A lone wolf.
+A hunting cat.
+A wailing ghost.
+A malevolent ghost.
+A pair of goblin scouts.
+A goblin patrol.
+An ogre.
+A pair of outlaws.
+A beggarly bandit.
+An old witch.
+A curious herbalist.
+A lost child.
+A woodcutter busy with the day’s work.
+An intrepid hunter.
+An elvish ranger.
+
+
+# EnchantedForest
+The interesting location is {[-> _efor1]}\n  Upon entering the forest, you see {[-> _efor2]}\n You notice {[-> _efor3]}\n Many of the trees in the forest are {[-> _efor4]}\n You encounter {[-> _efor5]} 
+
+# _efor1
+A cavern behind a waterfall.\n Inside is {[-> _efor1a]}
+A small cave in the bank of a creek.\n Inside is {[-> _efor1a]}
+An entrance to a rocky cave.\n  Inside is {[-> _efor1a]}
+A hole under a large tree.\n  Inside is {[-> _efor1g]}
+A large burrow with a door.\n  Inside is {[-> _efor1g]}
+A peculiar cottage where {[-> _efor1b]} lives.
+A house up in a tree where {[-> _efor1h]} lives.
+A well-maintained cottage where {[-> _efor1b]} lives.
+A ring of mushrooms.
+A reflecting pool between colonnades.
+The statue of a goddess on a beautiful marble fountain.
+Ancient ruins built by {[-> _efor1e]}\n  Now {[-> _efor1f]} lives in the ancient ruins.
+
+# _efor1a
+A bear’s lair.
+Lots of bats.
+Many spider webs.
+A troll's stash.
+An ogre's lair.
+Some goblins' hideout.
+Fragrant mushrooms.
+A lingering ghost.
+Some lizardfolk’s lair.
+The remnant’s of a satyr’s feasting.
+A mysterious chest.
+A reflecting pool between a pair of beautiful stone colonnades.
+
+# _efor1b
+A lonely old gnome.
+A reclusive shapeshifter.
+A gnomish healer.
+A beautiful witch.
+A horrible witch.
+An outcast dwarf.
+
+# _efor1c
+A lonely old woman
+A reclusive scholar
+an eccentric healer
+A poor woodcutter
+A fur trader
+A dwarf prospector
+
+# _efor1d
+An owlbear
+An ogre
+A troll
+A mad witch
+A paranoid shapeshifter
+Restless ghosts
+
+# _efor1e
+A great goblin king.
+A wood elf king.
+A high elf prince.
+A dragon cult.
+The god of wine himself.
+A lizardfolk tribe.
+A long-dead emperor.
+A forgotten king.
+An evil queen.
+A dark sorcerer.
+
+
+
+# _efor1f
+A high elf guardian.
+A wood elf druid.
+A pack of blink dogs.
+Giant spiders.
+Restless ghosts.
+A wicked satyr.
+Hundreds of pixies.
+Some wary centaurs.
+A cloistered dryad.
+A displacer beast.
+A pair of manticores.
+A dragon.
+
+# _efor1g
+Intelligent rabbits.
+A giant talking spider.
+A talking badger.
+A gnomish illusionist.
+A gnomish prankster.
+A suspicious sprite.
+
+# _efor1h
+A giant owl.
+A talking raven.
+A wood elf ranger.
+A high elf sentinel.
+A band of friendly pixies.
+Several nervous sprites.
+A swarm of sentient butterflies.
+It’s not a tree; it’s a treant.
+
+# _efor2
+A lush fruit tree.
+A large, hollow tree.
+A pair of trees from the same root.
+A tree growing over a boulder.
+A clearing with wildflowers.
+A grassy clearing.
+A moss-covered boulder.
+A thicket of flowering bushes.
+A babbling brook.
+A brook in a deep ravine.
+A brook, with gentle rapids.
+A creek with flowers on its bank.
+A small pool at a creek's bend.
+A patch of mushrooms.
+An enormous mushroom.
+A large, hollow log.
+A large, rotting log.
+A tree felled by lightning.
+An old gnarled tree.
+The stump of an enormous tree.
+
+# _efor3
+A flock of birds scatter.
+A hawk cries.
+A woodpecker drumming.
+An owl hoots.
+Birds chirping.
+A chipmunk scurrying.
+A deer dashes away.
+A deer watches curiously.
+A squirrel leaps from one tree to another.
+A wolf howls.
+Butterflies fluttering about.
+Squirrels chittering.
+Distant music from a harp.
+Distant music from a flute.
+A warm breeze blows.
+A twig snaps.
+Brightly, colored berries.
+Leaves rustling.
+The scent of flowers.
+Pixies dancing in the distance.
+
+# _efor4
+Apple or pear trees.
+Ashes.
+Birches.
+Beeches.
+Cedars or junipers.
+Cherry or plum trees.
+Chestnut or hazel trees.
+Cypresses.
+Elms.
+Firs.
+Hawthorns or hemlocks.
+Hickory or walnut trees.
+Linden or lime trees.
+Maples.
+Oaks.
+Pines.
+Poplars.
+Spruces.
+Willows.
+Yew or holly trees.
+
+
+# _efor5
+A large bear.
+A bear wearing a collar.
+A giant spider.
+A talking spider.
+An enormous anthill.
+A pack of wolves.
+A talking wolf.
+A displacer beast.
+A moaning ghost.
+A mischievous ghost.
+A pair of goblin scouts.
+A hobgoblin beasthunter.
+Several tiny faeries.
+A dozen or more pixies.
+A protective sprite.
+A dancing satyr.
+An old witch.
+A lost child.
+A high elf sage.
+A wood elf wanderer.
+
+
+# Random Altar
+[-> Holy Altar]
+[-> Unholy Altar]
+
+# Holy Altar
+The alter chamber is lit by {[-> _ha1]}\n  Upon approaching the altar, you feal {[-> _ha2]}\n  The altar is made of {[-> _ha3]}\n  Atop the altar, there is {[-> _ha4]}\n  RITUAL:  An approapriate ritual is {[-> _ha5]}\n  Performing succsessfully gives a blessing of {[-> _ha6]}\n  Performing incorrectly causes {[-> _ha7]}\n
+
+# Unholy Altar
+The alter chamber is lit by {[-> _uha1]}\n  Upon approaching the altar, you fell {[-> _uha2]}\n  The altar is made of {[-> _uha3]}\n  Atop the altar, there is {[-> _uha4]}\n  SACRIFICE:  You find a prisoner tied to the altar.  If you sacrifice him {[-> _uha5]}\n  If you leave him {[-> _uha6]}\n  If you free him {[-> _uha7]}\n
+
+# _uha1
+A few large candles.
+Many small candles.
+Several candelabra.
+A pair of torches near the entrance.
+Several torches in sconces around the room.
+Lanterns with [-> _uha1c] colored glass 
+Torches that burn with unusually colored flames of [-> _uha1c].
+A large brazier, emitting a dim red glow.
+Only the light you take with you.
+Nothing; this is a dark place, and you have difficulty keeping your torches lit.
+
+# _uha1c
+blue
+green
+purple
+red
+
+# _uha2
+Insignificant.
+A little irritable.
+A little weak.
+Less safe than before.
+An up welling of fear.
+An up welling of hatred.
+A hungry presence.
+A malevolent presence.
+A domineering presence.
+A watchful presence.
+
+# _uha3
+A solid block of stone.
+Three large slabs of stone.
+Three thick cuts of wood.
+A single block of stone carved with disturbing images.
+Three slabs of rune-carved stone.
+Several small stones held together with mortar.
+Brick and mortar.
+Wood carved in the forms of frightening beasts.
+Volcanic glass.
+Bone.
+
+# _uha4
+An ancient tome.
+A profane ritual book.
+Several candles.
+A blood-stained parament.
+A singed parament.
+A blanket made from the hide of a great beast.
+A [-> _uha4m] dish 
+A [-> _uha4m] goblet 
+A vessel of blood.
+A ceremonial knife.
+
+# _uha4m
+bone
+brass
+gold
+ivory
+jade
+silver
+steel
+volcanic glass
+
+# _uha5
+A fiend appears before you and begins savaging you with its claws.
+A fiend appears before you, demanding to know why you've summoned it to this dreary place.
+A fiend presence speaks to you, offering to answer one question you have.
+Nothing happens at first. After a while, you sense a fiendish presence begins watching your every move; you can feel its malevolent gaze.
+An angel appears to smite you for your foul act.
+The victim's corpse rises as a ghoul after 2d6 minutes, and it seeks you out, hungering for flesh.
+
+# _uha6
+Someone else kills the prisoner before you come back.
+The prisoner dies of shock, fear, or injuries previously sustained; you discover the corpse when you come back.
+The prisoner screams madly at you to help; the noise is going to draw attention.
+Nothing; that prisoner was worthless.
+When you return, rats are gnawing on the poor prisoner's toes and fingers. The prisoner is screaming and writhing in agony.
+A fiend appears and pulls the prisoner's heart out and consumes the still beating organ as you look on in horror.
+
+# _uha7
+The prisoner scrambles away out of the dungeon, terrified of what you may do.
+The prisoner instantly befriends you, desperately wanting to repay you the life-saving favor.
+The prisoner thanks you and tells you where to find a sack full of buried gold if you ever make it out of this hole in the ground; the prisoner then scurries off.
+The prisoner tells you to get out of here because this place is cursed.
+The prisoner tries to stab you with a hidden knife, having actually been a cleverly disguised cultist.
+The prisoner promises to take you on safe paths through the dungeon to visit the terrifying Lord of Deep Places; the prisoner may not be mentally balanced.
+
+# _ha1
+A few large candles.
+Many small candles.
+Several candelabra.
+A pair of torches near the entrance.
+Several torches in sconces around the room.
+Lanterns with [-> _ha1c] colored glass. 
+Sunlight filtering in through a few narrow shafts in the ceiling.
+Sunlight filtering in through leaden-glass windows.
+Sunlight filtering in through stained glass windows.
+Only the light you take with you.
+
+# _ha1c
+blue
+green
+red
+yellow
+
+# _ha2
+Peaceful.
+A little sleepy.
+A little braver than before.
+A little safer than before.
+An up welling of confidence.
+An up welling of righteousness.
+A gentle presence.
+A benevolent presence.
+A stern presence.
+A wise presence.
+
+# _ha3
+A solid block of stone.
+Three large slabs of stone.
+Three thick cuts of wood.
+An ornately carved block of wood.
+Several pieces of beautifully carved wood.
+Several small stones held together with mortar.
+Brick and mortar.
+Marble.
+Crystal.
+Gilded wood, encrusted with gems.
+
+# _ha4
+An ancient tome.
+A well-used prayer book.
+Several candles.
+A linen parament.
+A cotton parament.
+A bouquet of flowers.
+A [-> _ha4m] dish.
+A [-> _ha4m] goblet.
+A vessel of holy water.
+A censer.
+
+# _ha4m
+coppor
+crystal
+gold
+ivory
+silver
+steel
+tin
+wood
+
+
+# _ha5
+Eating some bread and drinking some wine.
+Washing one's hands in blessed water.
+Sprinkling blessed water on your bowed head.
+Spreading scented oils on your forehead.
+Burning incense or scented oils.
+Laying one's weapons upon the altar and kneeling to pray.
+
+# _ha6
+Strength in your coming battles.
+Healing from your last battle.
+Health on your coming journey.
+Wisdom for your coming struggles.
+Knowledge of life's great mysteries.
+Protection during your coming trials.
+
+# _ha7
+No ill effects.
+Feel a little fatigued on your coming journey.
+Feel a little weak in your coming battles.
+Feel hopelessness at completing your current quest.
+Feel a haunted by the gods' gaze.
+Feel a little woozy until you have a chance to properly rest.
+
+# _rd1
+A stronghold.
+A temple.
+A tomb.
+A prison.
+A mine.
+A lair.
+A palace.
+A storage vault.
+A sewer.
+A maze.
+
+# _rd2
+An ancient dwarvish clan.
+An ancient elf prince.
+A powerful wizard.
+A dark sorceress.
+A foreign empire.
+An ambitious queen of old.
+Prosperous merchants.
+A powerful noble family.
+Religious zealots.
+An ancient race of giants.
+A tyrannical king of old.
+No one; it's a natural cave.
+
+# _rd3
+Beneath a cold mountain.
+Beneath a fiery mountain.
+Near a well-traveled mountain pass.
+Deep within a forest.
+Deep within a desert.
+Beside the sea.
+On an island.
+Beneath a bustling city.
+Beneath the ruin of an ancient city.
+Beneath a well-known castle or monastery.
+Beneath a the ruin of an old castle or monastery.
+In a place reachable only by magic.
+
+# _rd4
+A dangerous outlaw.
+An elemental lord.
+A vampire.
+A lich.
+A demon.
+A devil.
+An orc warlord.
+A hobgoblin commander.
+An aberrant presence.
+A witch.
+A giant.
+A dragon.
+
+# _rd5
+Thieves.
+Goblins.
+Zombies.
+Skeletons.
+Bats.
+Rats.
+Spiders.
+Oozes.
+Kobolds.
+Cultists.
+Troglodytes.
+Ogres.
+
+# _rd6
+Gauntlet of mechanical traps.
+Powerful magical wards.
+Golem guardians.
+Elemental guardians.
+Noxious gas.
+Toxic mold.
+Horrible curse.
+Unstable ceilings.
+Flooding chambers.
+Sinkholes.
+Steam vents and lava flows.
+Slippery footing.
+
+# _rd7
+Weapon of a legendary warrior.
+Wand of a famous witch or wizard.
+Spellbook of a notorious mage.
+Treasure stash of a notable pirate.
+Hoard of an old dragon.
+Treasury of an ancient dwarvish realm.
+Artifacts of an elvish hero.
+Relics of a celebrated priest.
+Chests of silver carried by a lost ship or caravan.
+Crown jewels of a long-dead queen.
+Largest diamond found in this part of the world.
+Staff of an infamous sorcerer or necromancer.
+
+# _cas1
+Atop a mountain.
+On a hill overlooking a wide plain.
+At the fork of a river.
+On a narrow, rocky peninsula.
+Above a seaside cliff.
+On a hill overlooking a river valley.
+On a hill rising out of a swamp.
+On a hill overlooking a forest.
+Astride a desert oasis or natural spring.
+On a ridge overlooking a frozen plain.
+
+# _cas2
+A wise king or queen.
+An ambitious lord or lady.
+An evil tyrant.
+A mighty warrior or warlord.
+A retired adventurer.
+A celebrated war hero.
+An unscrupulous king or queen.
+A vain lord or lady.
+A powerful witch or wizard.
+A beloved sovereign.
+A prosperous merchant.
+A member of an ancient noble house.
+
+# _cas3
+In a past age.
+Hundreds of years ago.
+A few decades ago.
+Within the past decade.
+
+# _cas4
+Perfect; upkeep has been fastidious.
+Good; it been well-maintained.
+Decent; there are only a few cracks in the walls, but the place can withstand a siege.
+Fair; the castle has seen better days.
+Poor; the walls and towers are in dire need of repairs.
+Decrepit; the place is practically a ruin.
+
+# _cas5
+A member of the royal family.
+An ambitious lord or lady.
+An evil tyrant.
+An elderly lord or lady.
+A brash, young lord or lady.
+A mercenary company.
+A fearsome warlord or retired sellsword.
+A wealthy merchant.
+A retired pirate or thief.
+A former adventurer.
+An absentee noble lord.
+The crown, but the king or queen rarely stays here.
+
+# _cas6
+Grains grow well on the surrounding land.
+The nearby mines are rich in ores or gems.
+The surrounding land is excellent for grazing livestock.
+Fruit trees grow on the surrounding land.
+The nearby pass is the easiest way to cross the mountains.
+The nearby harbor is important for trade.
+The nearby river is important for trade.
+The nearby source of freshwater is precious is in this region.
+The wild lands beyond are full of threats.
+The surrounding lands are part of a long-standing territorial dispute.
+The surrounding land is held sacred.
+The nearby lands are home to a rare herb, tree, or creature that has magical uses.
+
+# _cas7
+Very high stone walls.
+Incredibly thick stone walls.
+A series of curtain walls and gatehouses.
+A treacherous climb to reach the castle walls.
+A moat filled with putrescent water.
+A moat filled with thick, boot-sucking mud.
+A moat filled with sharp spikes.
+A moat that is home to one or more dangerous aquatic beasts.
+An immense barbican.
+A narrow footbridge to reach the postern.
+
+# _cas8
+Hundreds of arrow slits.
+One of the world's largest dual-portcullis gates.
+A winding climb to reach the entrance.
+Several covered parapets with murder holes under which intruders must pass.
+A wide courtyard surrounded by flanking towers in the curtain wall.
+An unusual or hidden means of entry.
+
+# _cas9
+1 5 soldiers and 20 archers.
+1 20 soldiers, 5 knights, and 20 archers.
+1 50 soldiers, 10 knights, and 40 archers.
+1 20 knights, 20 archers, and 5 warmages.
+1 100 soldiers, 50 archers, and 5 warmages.
+1 100 soldiers, 20 knights, and 50 archers.
+1 200 soldiers, 50 knights, and 100 archers.
+1 200 soldiers, 100 knights, and 200 archers.
+
+# _cas10
+1 50 people.
+1 100 people.
+1 200 people.
+1 500 people.
+1 1,000 people.
+1 2,000 people.
+
+# _cas11
+Withstanding a grueling, lengthy siege.
+Suffering an immense conflagration.
+Changing hands several times over the course of the same war.
+Bringing ill-fortune to those who hold it.
+Being haunted by a former occupant.
+Never falling in a siege.
+Welcoming travelers seeking refuge.
+Turning away travelers seeking refuge.
+Its unusual architectural style.
+Its beautiful, historic tapestries.
+Its breathtakingly beautiful chapel.
+The quality of its meals.
+
+# _cas12
+An underground tunnel that can serve as a last-gasp escape route.
+The weapon of a long-dead hero.
+The preserved head of an ancient villain.
+A long-lost religious artifact.
+A missing lord or lady.
+A book of vile curses.
+A book of dark and ancient secrets.
+A cursed treasure hoard.
+The last bottle of famous vintage of wine.
+A lost work of a celebrated artist.
+The crypt of an ancient sovereign.
+An unhatched dragon egg.
+
+# _cas13
+A squad of archers hustling up a stair.
+A patrol of guards brandishing weapons.
+A guard shouting instructions.
+A knight hurrying to the stables.
+A servant cowering in a hiding place.
+A curious child peaking out a window.
+A servant kneeling in prayer.
+A noble hastily penning a letter.
+A squire aiding a knight with his armor.
+A healer checking over his potions.
+
+# _cas14
+The huntsman cleaning a recent kill.
+The kennelmaster leading a leashed dog.
+The horsemaster instructing a young rider.
+The armorer scolding an apprentice.
+A maid fussing over her lady’s dress.
+The tutor or sage lost in a book.
+The chaplain whispering with a maid.
+A maid polishing an ornamental shield.
+A servant carrying a tray of food.
+Several archers practicing in the yard.

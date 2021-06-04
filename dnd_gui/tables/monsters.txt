@@ -1,0 +1,1294 @@
+# C0
+Awakened shrub
+Baboon
+Badger
+Bat
+Cat
+Commoner
+Crab
+Crawling claw
+Deer
+Eagle
+Frog
+Giant fire beetle
+Goat
+Hawk
+Homunculus
+Hyena
+jackal
+Lemure
+Lizard
+Myconid sprout
+Octopus
+Owl
+Quipper
+Rat
+Raven
+Scorpion
+Sea horse
+Shrieker
+Spider
+Vulture
+Weasel
+
+# C1/8
+Blood hawk
+Camel
+Cultist
+Flu mph
+Flying snake
+Giant crab
+Giant rat
+Giant weasel
+Guard
+Kobold
+Manes
+Mastiff
+Merfolk
+Monodrone
+Mule
+Noble
+Poisonous snake
+Pony
+Slaad tadpole
+Stirge
+Tribal warrior
+Twig blight
+
+# C1/4
+Aarakocra
+Acolyte
+Axe beak
+Blink dog
+Boar
+Bullywug
+Constrictor snake
+Draft horse
+Dretch
+Drow
+Duodrone
+Elk
+Flying sword
+Giant badger
+Giant bat
+Giant centipede
+Giant frog
+Giant lizard
+Giant owl
+Giant poisonous snake
+Giant wolf spider
+Goblin
+Grim lock
+Kenku
+Kuo-toa
+Mud mephit
+Needle blight
+Panther
+Pixie
+Pseudodragon
+Pteranodon
+Rid ing horse
+Skeleton
+Smoke mephit
+Sprite
+Steam mephit
+Swarm of bats
+Swarm of rats
+Swarm of ravens
+Troglodyte
+Violet fungus
+Winged kobold
+Wolf
+Zombie
+
+# C1/2
+Ape
+Black bear
+Cockatrice
+Crocodile
+Darkmantle
+Deep gnome
+Dust mephit
+Gas spore
+Giant goat
+Giant sea horse
+Giant wasp
+Gnoll
+Gray ooze
+Hobgoblin
+Ice mephit
+jackalwere
+Lizardfolk
+Magma mephit
+Magmin
+Myconid adult
+Ore
+Piercer
+Reef shark
+Rust monster
+Sahuagin
+Satyr
+Scout
+Shadow
+Swarm of insects
+Thug
+Tridrone
+Vine blight
+Warhorse
+Warhorse skeleton
+Worg
+
+# C1
+Animated armor
+Brass dragon wyrmling
+Brown bear
+Bugbear
+Copper dragon wyrmling
+Death dog
+Dire wolf
+Dryad
+Duergar
+Faerie dragon (young)
+Fire snake
+Ghoul
+Giant eagle
+Giant hyena
+Giant octopus
+Giant spider
+Giant toad
+Giant vulture
+Goblin boss
+Half-ogre
+Harpy
+Hippogriff
+Imp
+Kuo-toa whip
+Lion
+Quadrone
+Quaggoth spore servant
+Quasit
+Scarecrow
+Specter
+Spy
+Swarm of quippers
+Thri- kreen
+Tiger
+Yuan-ti pureblood
+
+# C2
+All osaurus
+Ankheg
+Awakened tree
+Azer
+Bandit captain
+Berserker
+Black dragon wyrmling
+Bronze dragon wyrmling
+Carrion crawler
+Centaur
+Cult fanatic
+Druid
+Ettercap
+Faerie dragon (o ld)
+Gargoyle
+Gelatinous cube
+Ghast
+Giant boar
+Giant constrictor snake
+Giant elk
+Gibbering mouther
+Githzerai monk
+Gnoll pack lord
+Green dragon wyrmling
+Grick
+Gri ffon
+Hunter shark
+Intellect devourer
+Lizardfolk shaman
+Merrow
+Mimic
+Minotaur skeleton
+Myconid sovereign
+Nothic
+Ochre jelly
+Ogre
+Ogre zombie
+Ore Eye of Gruumsh
+Orog
+Pega sus
+Pe ntad rone
+Peryton
+Ples iosaurus
+Polar bear
+Poltergeist (specter)
+Pri est
+Quaggoth
+Rhinoceros
+Rug of smothering
+Saber-toothed tiger
+Sahuagin priestess
+Sea hag
+Silver dragon wyrml ing
+Spined devil
+Swarm of poisonous snakes
+Wererat
+White dragon wyrmling
+Will-o'-wisp
+
+# C3
+Ankylosaurus
+Basilisk
+Bearded devil
+Blue dragon wyrmling
+Bugbear chief
+Displacer beast
+Doppelganger
+Giant scorpion
+Githyanki warrior
+Gold dragon wyrmling
+Green hag
+Grel l
+Hell hound "
+Hobgoblin captain
+Hook horror
+Killer whale
+Knight
+Kuo-toa monitor
+Manti core
+Minotaur
+Mummy
+Nightmare
+Owl bear
+Phase sp ider
+Quaggoth thonot
+Spectator
+Veteran
+Water weird
+Werewolf
+Wight
+Winter wolf
+Yeti
+Yuan-ti malison
+
+# C4
+Banshee
+Bl ack pudd ing
+Bone naga
+Chuul
+Couatl
+Elephant
+Ettin
+Flameskull
+Ghost
+Gnoll fang ofYeenoghu
+Helmed horror
+Incubus
+Lamia
+Lizard kingjqueen
+Ore war chief
+Red dragon wyrmling
+Sea hag (in coven)
+Shadow demon
+Succubus
+Wereboar
+Weretiger
+
+# C5
+Air elemental
+Barbed devil
+Barlgura
+Beholder zombie
+Bulette
+Cambion
+Drow elite warrior
+Earth elemental
+Fire elemental
+Flesh golem
+Giant crocodile
+Giant shark
+Gladiator
+Gorgon
+Green hag (in coven)
+Half-red dragon veteran
+Hill giant
+Mezzoloth
+Night hag
+Otyugh
+Red slaad
+Revenant
+Roper
+Sahuagin baron
+Salamander
+Shambling mound
+Triceratops
+Troll
+Umber hulk
+Unicorn
+Vampire spawn
+Water elemental
+Werebear
+Wraith
+Xorn
+Young remorhaz
+
+# C6
+Chasme
+Chimera
+Cyclops
+Drider
+Galeb duhr
+Githzerai zerth
+Hobgoblin warlord
+Invisible stalker
+Kuo-toa archpriest
+Mage
+Mammoth
+Medusa
+Vrock
+Wyvern
+Young brass dragon
+Young white dragon
+
+# C7
+Blue slaad
+Drow mage
+Giant ape
+Grick alpha
+Mind flayer
+Night hag (in coven)
+Oni
+Shield guardian
+Stone giant
+Young black dragon
+Young copper dragon
+Yuan-ti abomination
+
+# C8
+Assassin
+Chain devil
+Cloaker
+Drow priestess of Lolth
+Fomorian
+Frost giant
+Githyanki knight
+Green slaad
+Hezrou
+Hydra
+Mind flayer arcanist
+Spirit naga
+Tyrannosaurus rex
+Young bronze dragon
+Young green dragon
+
+# C9
+Abominable yeti
+Bone devil
+Clay golem
+Cloud giant
+Fire giant
+Glabrezu
+Gray slaad
+Nycaloth
+Treant
+Young blue dragon
+Young silver dragon
+
+# C10
+Aboleth
+Death slaad
+Deva
+Guardian naga
+Stone golem
+Yochlol
+Young gold dragon
+Young red dragon
+
+# C11
+Behir
+Dao
+Djinni
+Efreeti
+Gynosphinx
+Horned devil
+Marid
+Remorhaz
+Roc
+
+# C12
+Arcanaloth
+Archmage
+Erinyes
+
+# C13
+Adult brass dragon
+Adult white dragon
+Beholder (not in lair)
+Nalfeshnee
+Rakshasa
+Storm giant
+Ultroloth
+Vampire
+Young red shadow dragon
+
+# C14
+Adult black dragon
+Adult copper dragon
+Beholder (in lair)
+Death tyrant (not in lair)
+Ice devil
+
+# C15
+Adult bronze dragon
+Adult green dragon
+Death tyrant (in lair)
+Mummy lord (not in lair)
+Purple worm
+Vampire (spellcaster)
+Vampire (warrior)
+
+# C16
+Adult blue dragon
+Adult silver dragon
+Iron golem
+Marilith
+Mummy lord (in lair)
+Planetar
+
+# C17
+Adult blue dracolich
+Adult gold dragon
+Adult red dragon
+Androsphinx
+Death knight
+Dragon turtle
+Goristro
+
+# C18
+Demilich (not in lair)
+
+# C19	
+Balor
+
+# C20
+Ancient brass dragon
+Ancient white dragon
+Demilich (in lair)
+Pit fiend
+
+# C21
+Ancient black dragon
+Ancient copper dragon
+Lich (not in lair)
+Solar
+
+# C22
+Ancient bronze dragon
+Ancient green dragon
+Lich (in lair)
+
+# C23
+Ancient blue dragon
+Ancient silver dragon
+Empyrean
+kraken
+
+# C24
+Ancient gold dragon
+Ancient red dragon
+
+# C30
+Tarrasque
+
+# Arctic0
+Commoner
+owl
+
+# Arcitc1/8
+Bandit
+blood hawk
+kobold
+tribal warrior
+
+# Arcitc1/4
+Giant owl
+winged kobold
+
+# Arctic1/2
+Ice mephit
+orc
+scout
+
+# Arctic1
+Brown bear
+half-ogre
+
+# Arctic2
+Bandit captain
+berserker
+druid
+griffon
+ogre
+orc Eye of Gruumsh
+orog
+polar bear
+saber-toothed tiger
+
+# Arctic3
+Manticore
+veteran
+winter wolf
+yeti
+
+# Arctic4
+[-> Arctic3]
+
+# Arctic5
+Revenant
+troll
+werebear
+young remorhaz
+
+# Arctic6
+Mammoth
+young white dragon
+
+# Arctic7
+[-> Arctic6]
+
+# Arctic8
+Frost giant
+
+# Arctic9
+Abominable yeti
+
+# Arctic10
+[-> Arctic9]
+
+# Arctic11
+Remorhaz
+roc
+
+# Arctic12
+[-> Arctic11]
+
+# Arctic13
+Adult white dragon
+
+# Arctic14
+[-> Arctic13]
+
+# Arctic15
+[-> Arctic14]
+
+# Arctic16
+[-> Arctic15]
+
+# Arctic17
+[-> Arctic16]
+
+# Arctic18
+[-> Arctic17]
+
+# Arctic19
+[-> Arctic18]
+
+# Arctic20
+Ancient white dragon
+
+# Arctic20+
+[-> Arctic20]
+
+
+# Arctic0
+
+# Arctic1/8
+
+# Arctic1/4
+
+# Arctic1/2
+
+# Arctic1
+
+# Arctic2
+
+# Arctic3
+
+# Arctic4
+
+# Arctic5
+
+# Arctic6
+
+# Arctic7
+
+# Arctic8
+
+# Arctic9
+
+# Arctic10
+
+# Arctic11
+
+# Arctic12
+
+# Arctic13
+
+# Arctic14
+
+# Arctic15
+
+# Arctic16
+
+# Arctic17
+
+# Arctic18
+
+# Arctic19
+
+# Arctic20
+
+# Arctic20+
+
+
+
+
+# Desert0
+cat
+commoner
+hyena
+jackal
+scorpion
+vulture
+
+# Desert1/8
+Bandit
+camel
+flying
+snake
+guard
+kobold
+mule
+poisonous snake
+stirge
+tribal warrior
+
+# Desert1/4
+Constrictor snake
+giant lizard
+giant poisonous snake
+giant wolf spider
+pseudodragon
+winged kobold
+
+# Desert1/2
+Dust mephit
+gnoll
+hobgoblin
+jackalwere
+scout
+swarm of insects
+
+# Desert1
+Death dog
+giant hyena
+giant spider
+giant toad
+giant vulture
+half-ogre
+lion
+thri-kreen
+yuan-ti pureblood
+
+# Desert2
+Bandit captain
+berserker
+druid
+giant constrictor snake
+gnoll pack lord
+ogre
+
+# Desert3
+Giant scorpion
+hobgoblin captain
+mummy
+phase spider
+wight
+yuan-ti malison
+
+# Desert4
+Couatl
+gnoll fang of Yeenoghu
+lamia
+weretiger
+
+# Desert5
+Air elemental
+fire elemental
+revenant
+
+# Desert6
+Cyclops
+medusa
+young brass dragon
+
+# Desert7
+Yuan-ti abomination
+
+# Desert8
+[-> Desert7]
+
+# Desert9
+Young blue dragon
+
+# Desert10
+Guardian naga
+
+# Desert11
+Efreeti
+gynosphinx
+roc
+
+# Desert12
+[-> Desert7]
+
+# Desert13
+Adult brass dragon
+
+# Desert14
+[-> Desert13]
+
+# Desert15
+Mummy lord
+purple worm
+
+# Desert16
+Adult blue dragon
+
+# Desert17
+Adult blue dracolich
+androsphinx
+
+# Desert18
+[-> Desert17]
+
+# Desert19
+[-> Desert18]
+
+# Desert20
+Ancient brass dragon
+
+# Desert20+
+Ancient blue dragon
+
+# Coastal0
+Commoner
+crab
+eagle
+
+# Coastal1/8
+Bandit
+blood hawk
+giant crab
+guard
+kobold
+merfolk
+poisonous snake
+stirge
+tribal warrior
+
+# Coastal1/4
+Giant lizard
+giant wolf spider
+pseudodragon
+pteranodon
+winged kobold
+
+# Coastal1/2
+Sahuagin
+scout
+
+# Coastal1
+Giant eagle
+giant toad
+harpy
+
+# Coastal2
+Bandit captain
+berserker
+druid
+griffon
+ogre
+merrow
+plesiosaurus
+sahuagin priestess
+sea hag
+
+# Coastal3
+Manticore
+veteran
+
+# Coastal4
+Banshee
+
+# Coastal5
+Sahuagin baron
+water elemental
+
+# Coastal6
+Cyclops
+
+# Coastal7
+[-> Coastal6]
+
+# Coastal8
+Young bronze dragon
+
+# Coastal9
+Young blue dragon
+
+# Coastal10
+[-> Coastal9]
+
+# Coastal11
+Djinni
+marid
+roc
+
+# Coastal12
+[-> Coastal11]
+
+# Coastal13
+Storm giant
+
+# Coastal14
+[-> Coastal13]
+
+# Coastal15
+Adult bronze dragon
+
+# Coastal16
+Adult blue dragon
+
+# Coastal17
+Dragon turtle
+
+# Coastal18
+[-> Coastal17]
+
+# Coastal19
+[-> Coastal18]
+
+# Coastal20
+[-> Coastal19]
+
+# Coastal20+
+Ancient bronze dragon
+Ancient blue dragon
+
+# Forest0
+
+# Forest1/8
+
+# Forest1/4
+
+# Forest1/2
+
+# Forest1
+
+# Forest2
+
+# Forest3
+
+# Forest4
+
+# Forest5
+
+# Forest6
+
+# Forest7
+
+# Forest8
+
+# Forest9
+
+# Forest10
+
+# Forest11
+
+# Forest12
+
+# Forest13
+
+# Forest14
+
+# Forest15
+
+# Forest16
+
+# Forest17
+
+# Forest18
+
+# Forest19
+
+# Forest20
+
+# Forest20+
+
+# Grassland0
+
+# Grassland1/8
+
+# Grassland1/4
+
+# Grassland1/2
+
+# Grassland1
+
+# Grassland2
+
+# Grassland3
+
+# Grassland4
+
+# Grassland5
+
+# Grassland6
+
+# Grassland7
+
+# Grassland8
+
+# Grassland9
+
+# Grassland10
+
+# Grassland11
+
+# Grassland12
+
+# Grassland13
+
+# Grassland14
+
+# Grassland15
+
+# Grassland16
+
+# Grassland17
+
+# Grassland18
+
+# Grassland19
+
+# Grassland20
+
+# Grassland20+
+
+
+# Hill0
+
+# Hill1/8
+
+# Hill1/4
+
+# Hill1/2
+
+# Hill1
+
+# Hill2
+
+# Hill3
+
+# Hill4
+
+# Hill5
+
+# Hill6
+
+# Hill7
+
+# Hill8
+
+# Hill9
+
+# Hill10
+
+# Hill11
+
+# Hill12
+
+# Hill13
+
+# Hill14
+
+# Hill15
+
+# Hill16
+
+# Hill17
+
+# Hill18
+
+# Hill19
+
+# Hill20
+
+# Hill20+
+
+
+# Mountain0
+
+# Mountain1/8
+
+# Mountain1/4
+
+# Mountain1/2
+
+# Mountain1
+
+# Mountain2
+
+# Mountain3
+
+# Mountain4
+
+# Mountain5
+
+# Mountain6
+
+# Mountain7
+
+# Mountain8
+
+# Mountain9
+
+# Mountain10
+
+# Mountain11
+
+# Mountain12
+
+# Mountain13
+
+# Mountain14
+
+# Mountain15
+
+# Mountain16
+
+# Mountain17
+
+# Mountain18
+
+# Mountain19
+
+# Mountain20
+
+# Mountain20+
+
+
+# Swamp0
+
+# Swamp1/8
+
+# Swamp1/4
+
+# Swamp1/2
+
+# Swamp1
+
+# Swamp2
+
+# Swamp3
+
+# Swamp4
+
+# Swamp5
+
+# Swamp6
+
+# Swamp7
+
+# Swamp8
+
+# Swamp9
+
+# Swamp10
+
+# Swamp11
+
+# Swamp12
+
+# Swamp13
+
+# Swamp14
+
+# Swamp15
+
+# Swamp16
+
+# Swamp17
+
+# Swamp18
+
+# Swamp19
+
+# Swamp20
+
+# Swamp20+
+
+
+# Underdark0
+
+# Underdark1/8
+
+# Underdark1/4
+
+# Underdark1/2
+
+# Underdark1
+
+# Underdark2
+
+# Underdark3
+
+# Underdark4
+
+# Underdark5
+
+# Underdark6
+
+# Underdark7
+
+# Underdark8
+
+# Underdark9
+
+# Underdark10
+
+# Underdark11
+
+# Underdark12
+
+# Underdark13
+
+# Underdark14
+
+# Underdark15
+
+# Underdark16
+
+# Underdark17
+
+# Underdark18
+
+# Underdark19
+
+# Underdark20
+
+# Underdark20+
+
+
+# Underwater0
+
+# Underwater1/8
+
+# Underwater1/4
+
+# Underwater1/2
+
+# Underwater1
+
+# Underwater2
+
+# Underwater3
+
+# Underwater4
+
+# Underwater5
+
+# Underwater6
+
+# Underwater7
+
+# Underwater8
+
+# Underwater9
+
+# Underwater10
+
+# Underwater11
+
+# Underwater12
+
+# Underwater13
+
+# Underwater14
+
+# Underwater15
+
+# Underwater16
+
+# Underwater17
+
+# Underwater18
+
+# Underwater19
+
+# Underwater20
+
+# Underwater20+
+
+
+# Urban0
+Cat, commoner, goat, rat, raven
+# Urban1/8
+Bandit, cultist, Aying snake, giant rat,guard, kobold, mastiff, mule, noble,pony, stirge
+# Urban1/4
+Acolyte, draft horse, giant centipede,giant poisonous snake, kenku,pseudodragon, riding horse,skeleton, smoke mephit, swarm of bats, swarm of rats , swarm of ravens , winged kobold, zombie
+# Urban1/2
+
+# Urban1
+
+# Urban2
+
+# Urban3
+
+# Urban4
+
+# Urban5
+
+# Urban6
+
+# Urban7
+
+# Urban8
+
+# Urban9
+
+# Urban10
+
+# Urban11
+
+# Urban12
+
+# Urban13
+
+# Urban14
+
+# Urban15
+
+# Urban16
+
+# Urban17
+
+# Urban18
+
+# Urban19
+
+# Urban20
+
+# Urban20+
+
+

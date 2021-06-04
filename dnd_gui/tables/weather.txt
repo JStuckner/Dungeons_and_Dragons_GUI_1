@@ -1,0 +1,18 @@
+#All
+The temperature is [-> Temperature], there is [-> Wind] wind, and there is [-> Precipitation] precipitation.
+
+
+# Temperature
+14 normal for the season
+3 1d4*10 degrees F colder than normal
+3 1d4*10 degrees F hotter than normal
+
+# Wind
+12 no
+5 light
+3 strong
+
+# Precipitation
+12 no
+5 light
+3 heavy

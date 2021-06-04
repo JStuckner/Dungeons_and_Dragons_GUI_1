@@ -1,0 +1,140 @@
+# Pickpocket
+A scrap of paper or parchment with an unintelligible note scribbled on it.
+A scrap of paper or parchment with a list of mundane items or tasks written on it.
+Some lint or a bit of thread.
+An errant button or broken piece of something.
+An old or well-worn [-> _ppkey]
+A new or little-used [-> _ppkey]
+A clean [-> _pphandker]
+A soiled [-> _pphandker]
+2 [-> _ppscore]
+2 [-> _ppscore] and [-> _ppscore2]
+
+# _ppkey
+small brass key.
+large brass key.
+thin brass key.
+heavy iron key.
+spindly iron key.
+key made of [-> _ppkeymat]
+
+# _ppkeymat
+bone
+bronze
+gold
+oak
+silver
+stone
+
+# _pphandker
+fine silk handkerchief.
+simple cotton handkerchief.
+lacy handkerchief.
+threadbare handkerchief.
+striped handkerchief.
+spotted handkerchief.
+
+# _ppscore
+2d4 cp.
+3d6 cp.
+1d6 sp.
+1d6 sp plus 1d10 cp.
+2d6 sp.
+2d6 sp plus 1d10 cp.
+1d4 gp.
+1d4 gp plus 1d10 sp.
+2d4 gp plus 1d10 sp.
+A gem or small piece of jewelery worth 5d10 gp.
+A gem or small piece of jewelery worth 10d10 gp.
+1d6 gp and [-> _ppscore].
+
+# _ppscore2
+2d4 cp.
+3d6 cp.
+1d6 sp.
+1d6 sp plus 1d10 cp.
+2d6 sp.
+2d6 sp plus 1d10 cp.
+1d4 gp.
+1d4 gp plus 1d10 sp.
+
+# Poor 
+[List 1d4-1 loot -> _house]
+
+# Common
+[List 1d4 -> _house]
+
+# Artisan 
+[List 1d6 -> _house]
+
+# Noble
+[List 2d6 -> _house]
+
+# Wealthy 
+[List 3d6 -> _house]
+
+# Opulent 
+[List 4d6 -> _house]
+
+# _house
+150 [List 1d4 art -> 25]
+125 [List 1d4 art -> 250]
+10 [List 1d4 art -> 750]
+5 [List 1d4 art -> 2500]
+2 [List 1d4 art -> 7500]
+175 [List 1d4 gems -> 10]
+50 [List 1d4 gems -> 50]
+25 [List 1d4 gems -> 100]
+12 [List 1d4 gems -> 500]
+7 [List 1d4 gems -> 1000]
+2 [List 1d4 gems -> 5000]
+50 [equipment -> Weapon]
+50 [equipment -> Armor]
+10 [List 1d4 magic-items -> A]
+9 [List 1d4 magic-items -> B]
+5 [List 1d4 magic-items -> C]
+5 [List 1d4 magic-items -> D]
+4 [List 1d4 magic-items -> E]
+3 [List 1d4 magic-items -> F]
+1 [List 1d4 magic-items -> G]
+1 [List 1d4 magic-items -> H]
+
+# RafeekTower
+15 [List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d6 equipment -> Weapon]
+15 [List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d6 equipment -> Weapon]
+14 [List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d6 equipment -> Weapon]
+5 [List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Weapon] +1
+5 [List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Weapon] +1
+5 [List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d4 equipment -> Weapon] +1
+5[List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Weapon] +1
+5[List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Weapon] +1
+5[List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d4 equipment -> Weapon] +1
+15 [List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d6 equipment -> Armor]
+15 [List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d6 equipment -> Armor]
+15 [List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d6 equipment -> Armor]
+5 [List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Armor] +1
+5 [List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Armor] +1
+5 [List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d4 equipment -> Armor] +1
+5[List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Armor] +1
+5[List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Armor] +1
+5[List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d4 equipment -> Armor] +1
+[List 2d6 gems -> 10], [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Weapon] +2
+[List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Weapon] +2
+[List 2d4 art -> 25],  [List 1d6 magic-items -> A], [List 1d4-1 spells -> Mage1], [List 1d4 equipment -> Armor] +2
+[List 2d6 gems -> 50], [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4-1 spells -> Mage2], [List 1d4 equipment -> Armor] +2
+
+
+
+# ZombieHut
+150 [List 1d6 magic-items -> A], [List 1d6 equipment -> Weapon], random potion
+100 [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d6 equipment -> Weapon], random potion
+5 [List 1d6 magic-items -> A], [List 1d4 equipment -> Weapon] + 1, random potion
+3 [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4 equipment -> Weapon] + 1, 1d4 random potions
+[List 1d6 magic-items -> A], [List 1d4 equipment -> Weapon] + 2, 1d4 random potions
+[List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4 equipment -> Weapon] + 2, 1d4 random potions
+150 [List 1d6 magic-items -> A], [List 1d6 equipment -> Armor], 1d2 random potions
+100 [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d6 equipment -> Armor], 1d2 random potions
+5 [List 1d6 magic-items -> A], [List 1d4 equipment -> Armor] + 1, 1d4 random potions
+3 [List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4 equipment -> Armor] + 1, 1d4 random potions
+[List 1d6 magic-items -> A], [List 1d4 equipment -> Armor] + 2, 1d4 random potions
+[List 1d6 magic-items -> A], [List 1d6 magic-items -> B], [List 1d4 equipment -> Armor] + 2, 1d4 random potions

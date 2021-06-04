@@ -1,0 +1,17 @@
+{
+"name": "Varis",
+"maxHP": 83,
+"level": 10,
+"xp": 0,
+"ac": 19,
+"str": 11,
+"dex": 14,
+"con": 16,
+"int": 12,
+"wis": 20,
+"cha": 11,
+"bonuscarry": 0,
+"speed": 35,
+"spellDC": 16,
+"init": 2
+}

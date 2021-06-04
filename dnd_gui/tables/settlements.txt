@@ -1,0 +1,17 @@
+# village
+Contains 1d4 shops
+
+# smallTown
+Contains 2d4 shops
+
+# town
+Contains 2d6+2 shops
+
+# smallCity
+Contains 2d10 shops
+
+# City
+Contains 3d10 shops
+
+# metropolis
+Contains 4d10 shops

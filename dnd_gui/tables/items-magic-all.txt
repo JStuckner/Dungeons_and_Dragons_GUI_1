@@ -1,0 +1,379 @@
+# Common
+Potion of Climbing 	cost	180	gp	page	187	Common 
+Potion of Healing 	cost	50	gp	page	187	Common 
+Spell Scroll Level 0 	cost	10	gp	page	200	Common 
+Spell Scroll Level 1 	cost	60	gp	page	200	Common 
+
+# Uncommon
++1 Shield 	cost	1500 	gp	page	200	Uncommon 
++1 Weapon 	cost	1000 	gp	page	213	Uncommon 
+Adamantine Armor 	cost	500	gp	page	150	Uncommon 
+Alchemy Jug 	cost	6000	gp	page	150	Uncommon 
+Ammunition +1 (each) 	cost	25	gp	page	150	Uncommon 
+Amulet of Proof Against Detection and Location 	cost	20000	gp	page	150	Uncommon 
+Bag of Holding 	cost	4000	gp	page	153	Uncommon 
+Boots of Elvenkind 	cost	2500	gp	page	155	Uncommon 
+Boots of Striding and Springing 	cost	5000	gp	page	156	Uncommon 
+Boots of the Winterlands	cost	10000	gp	page	156	Uncommon 
+Bracers of Archery 	cost	1500	gp	page	156	Uncommon 
+Brooch of Shielding 	cost	7500	gp	page	156	Uncommon 
+Broom of Flying 	cost	8000	gp	page	156	Uncommon 
+Cap of Water Breathing	cost	1000	gp	page	157	Uncommon 
+Circlet of Blasting 	cost	1500	gp	page	158	Uncommon 
+Cloak of Elvenkind 	cost	5000	gp	page	158	Uncommon 
+Cloak of Protection 	cost	3500	gp	page	159	Uncommon 
+Cloak of the Manta Ray 	cost	6000	gp	page	159	Uncommon 
+Decanter of Endless Water 	cost	135000	gp	page	160	Uncommon 
+Deck of Illusions 	cost	6120	gp	page	161	Uncommon 
+Driftglobe 	cost	750	gp	page	166	Uncommon 
+Dust of Disappearance 	cost	300	gp	page	166	Uncommon 
+Dust of Dryness (1 pellet)	cost	120	gp	page	166	Uncommon 
+Dust of Sneezing and Choking 	cost	480	gp	page	166	Uncommon 
+Elemental Gem 	cost	960	gp	page	167	Uncommon 
+Eversmoking Bottle 	cost	1000	gp	page	168	Uncommon 
+Eyes of Charming 	cost	3000	gp	page	168	Uncommon 
+Eyes of Minute Seeing 	cost	2500	gp	page	168	Uncommon 
+Eyes of the Eagle 	cost	2500	gp	page	168	Uncommon 
+Gauntlets of Ogre Power 	cost	8000	gp	page	171	Uncommon 
+Gem of Brightness 	cost	5000	gp	page	171	Uncommon 
+Gloves of Missile Snaring 	cost	3000	gp	page	172	Uncommon 
+Gloves of Swimming and Climbing 	cost	2000	gp	page	172	Uncommon 
+Gloves of Thievery 	cost	5000	gp	page	172	Uncommon 
+Goggles of Night 	cost	1500	gp	page	172	Uncommon 
+Hat of Disguise 	cost	5000	gp	page	173	Uncommon 
+Headband of Intellect	cost	8000	gp	page	173	Uncommon 
+Helm of Comprehend Languages 	cost	500	gp	page	173	Uncommon 
+Helm of Telepathy 	cost	12000	gp	page	174	Uncommon 
+Immovable Rod 	cost	5000	gp	page	175	Uncommon 
+Instrument of the Bards - Doss Lute 	cost	28500	gp	page	176	Uncommon 
+Instrument of the Bards - Fochulan Bandlore 	cost	26500	gp	page	176	Uncommon 
+Instrument of the Bards - Mac-Fuirmidh Cittern 	cost	27000	gp	page	176	Uncommon 
+Javelin of Lightning 	cost	1500	gp	page	178	Uncommon 
+Keoghtom's Ointment Per dose) 	cost	120	gp	page	179	Uncommon 
+Lantern of Revealing 	cost	5000	gp	page	179	Uncommon 
+Luckstone 	cost	4200	gp	page	205	Uncommon 
+Mariner's Armor 	cost	1500	gp	page	181	Uncommon 
+Medallion of Thoughts 	cost	3000	gp	page	181	Uncommon 
+Mithral Armor 	cost	800	gp	page	182	Uncommon 
+Necklace of Adaption 	cost	1500	gp	page	182	Uncommon 
+Oil of Slipperiness 	cost	480	gp	page	184	Uncommon 
+Pearl of Power 	cost	6000	gp	page	184	Uncommon 
+Periapt of Health 	cost	5000	gp	page	184	Uncommon 
+Periapt of Wound Closure 	cost	5000	gp	page	184	Uncommon 
+Philter of Love 	cost	90	gp	page	184	Uncommon 
+Pipes of Haunting 	cost	6000	gp	page	185	Uncommon 
+Pipes of the Sewers 	cost	2000	gp	page	185	Uncommon 
+Potion of Animal Friendship 	cost	200	gp	page	187	Uncommon 
+Potion of Fire Breath 	cost	150	gp	page	187	Uncommon 
+Potion of Greater Healing 	cost	150	gp	page	187	Uncommon 
+Potion of Growth 	cost	270	gp	page	187	Uncommon 
+Potion of Poison 	cost	100	gp	page	188	Uncommon 
+Potion of Resistance 	cost	300	gp	page	188	Uncommon 
+Potion of Water Breathing 	cost	180	gp	page	188	Uncommon 
+Quiver of Ehlonna 	cost	1000	gp	page	189	Uncommon 
+Ring of Jumping 	cost	2500	gp	page	191	Uncommon 
+Ring of Mind Shielding	cost	16000	gp	page	191	Uncommon 
+Ring of Swimming 	cost	3000	gp	page	193	Uncommon 
+Ring of Warmth 	cost	1000	gp	page	193	Uncommon 
+Ring of Water Walking	cost	1500	gp	page	193	Uncommon 
+Robe of Useful Items 	cost	Items * 5 	gp	page	195	Uncommon 
+Rope of Climbing 	cost	2000	gp	page	197	Uncommon 
+Saddle of the Cavalier	cost	2000	gp	page	199	Uncommon 
+Sending Stones 	cost	2000	gp	page	199	Uncommon 
+Sentinel Shield 	cost	20000	gp	page	199	Uncommon 
+Silver Raven 	cost	5000	gp	page	170	Uncommon 
+Slippers of Spider Climbing 	cost	5000	gp	page	200	Uncommon 
+Spell Scroll Level 2 	cost	120	gp	page	200	Uncommon 
+Spell Scroll Level 3 	cost	200	gp	page	200	Uncommon 
+Staff of the Adder 	cost	1800	gp	page	203	Uncommon 
+Staff of the Python 	cost	2000	gp	page	204	Uncommon 
+Trident of Fish Command	cost	800	gp	page	209	Uncommon 
+Wand of Magic Detection	cost	1500	gp	page	211	Uncommon 
+Wand of Magic Missiles	cost	8000	gp	page	211	Uncommon 
+Wand of Secrets 	cost	1500	gp	page	211	Uncommon 
+Wand of the War Mage +1 	cost	1200	gp	page	212	Uncommon 
+Wand of Web 	cost	8000	gp	page	212	Uncommon 
+Weapon of Warning 	cost	60000	gp	page	213	Uncommon 
+Wind Fan 	cost	1500	gp	page	213	Uncommon 
+Winged Boots 	cost	8000	gp	page	214	Uncommon 
+
+# Rare
+Bowl of Commanding Water Elementals 	cost	8000	gp	page	156	Rare
+Heward's Handy Haversack	cost	2000	gp	page	174	Rare
+Periapt of Proof Against Poison 	cost	5000	gp	page	184	Rare
+Quaal's Feather Token Whip 	cost	50	gp	page	188	Rare
+Robe of Eyes 	cost	30000	gp	page	193	Rare
+Wand of Lightning Bolts 	cost	32000	gp	page	211	Rare
++ Armor 	cost	1500	gp	page	152	Rare 
++2 Shield 	cost	6000 	gp	page	200	Rare 
++2 Weapon 	cost	4000 	gp	page	213	Rare 
+Ammunition +2( ea) 	cost	100	gp	page	150	Rare 
+Amulet of Health 	cost	8000	gp	page	150	Rare 
+Armor of Resistance 	cost	6000	gp	page	152	Rare 
+Arrow-Catching Shield 	cost	6000	gp	page	152	Rare 
+Bead of Force 	cost	960	gp	page	154	Rare 
+Belt of Dwarvenkind 	cost	6000	gp	page	155	Rare 
+Boots of Levitation 	cost	4000	gp	page	155	Rare 
+Boots of Speed 	cost	4000	gp	page	155	Rare 
+Bracers of Defense 	cost	6000	gp	page	156	Rare 
+Brass Horn of Valhalla	cost	8400	gp	page	175	Rare 
+Brazier of Commanding Fire Elementals	cost	8000	gp	page	156	Rare 
+Bronze Griffon 	cost	8000	gp	page	169	Rare 
+Cape of the Mounte­bank 	cost	8000	gp	page	157	Rare 
+Censer of Controlling Air Elementals	cost	8000	gp	page	158	Rare 
+Chime of Opening 	cost	1500	gp	page	158	Rare 
+Cloak of Displacement	cost	60000	gp	page	158	Rare 
+Cloak of the Bat 	cost	6000	gp	page	159	Rare 
+Cube of Force 	cost	16000	gp	page	159	Rare 
+Daern's Instant Fortress	cost	75000	gp	page	160	Rare 
+Dagger of Venom 	cost	2500	gp	page	160	Rare 
+Dimensional Shackles 	cost	3000	gp	page	165	Rare 
+Dragon Slayer 	cost	8000	gp	page	166	Rare 
+Ebony Fly 	cost	6000	gp	page	169	Rare 
+Elixir of Health 	cost	120	gp	page	168	Rare 
+Elven Chain 	cost	4000	gp	page	168	Rare 
+Flame Tongue 	cost	5000	gp	page	170	Rare 
+Folding Boat 	cost	10000	gp	page	170	Rare 
+Gem of Seeing 	cost	32000	gp	page	172	Rare 
+Giant Slayer 	cost	7000	gp	page	172	Rare 
+Glamoured Studded Leather 	cost	2000	gp	page	172	Rare 
+Goldean Lion (ea) 	cost	600	gp	page	169	Rare 
+Helm of Teleportation	cost	64000	gp	page	174	Rare 
+Horn of Blasting 	cost	450	gp	page	174	Rare 
+Horseshoes of Speed 	cost	5000	gp	page	175	Rare 
+Instrument of the Bards - Canaith Mandolin	cost	30000	gp	page	176	Rare 
+Instrument of the Bards - Cli Lyre 	cost	35000	gp	page	176	Rare 
+Ioun Stone Awareness 	cost	12000	gp	page	177	Rare 
+Ioun Stone Protection	cost	1200	gp	page	177	Rare 
+Ioun Stone Reserve 	cost	6000	gp	page	177	Rare 
+Ioun Stone Sustenance	cost	1000	gp	page	177	Rare 
+Iron Bands of Bilarro 	cost	4000	gp	page	177	Rare 
+Ivory Goat(Terror) 	cost	20000	gp	page	169	Rare 
+Ivory Goat(Travail) 	cost	400	gp	page	169	Rare 
+Ivory Goat (Traveling)	cost	1000	gp	page	169	Rare 
+Mace of Disruption 	cost	8000	gp	page	179	Rare 
+Mace of Smiting 	cost	7000	gp	page	179	Rare 
+Mace of Terror 	cost	8000	gp	page	180	Rare 
+Mantle of Spell of Resistance	cost	30000	gp	page	180	Rare 
+Marble Elephant 	cost	6000	gp	page	170	Rare 
+Necklace of Fireballs (Five beads) 	cost	3840	gp	page	182	Rare 
+Necklace of Fireballs (Four beads) 	cost	1600	gp	page	182	Rare 
+Necklace of Fireballs (One bead) 	cost	300	gp	page	182	Rare 
+Necklace of Fireballs (Six beads) 	cost	7680	gp	page	182	Rare 
+Necklace of Fireballs (Three beads) 	cost	960	gp	page	182	Rare 
+Necklace of Fireballs (Two beads) 	cost	480	gp	page	182	Rare 
+Oil of Etherealness 	cost	1920	gp	page	183	Rare 
+Onyx Dog 	cost	3000	gp	page	170	Rare 
+Portable Hole 	cost	8000	gp	page	185	Rare 
+Potion of Clairvoyance	cost	960	gp	page	187	Rare 
+Potion of Diminution 	cost	270	gp	page	187	Rare 
+Potion of Gaseous Form 	cost	300	gp	page	187	Rare 
+Potion of Heroism 	cost	180	gp	page	188	Rare 
+Potion of Invulnerability	cost	3840	gp	page	188	Rare 
+Potion of Mind Reading	cost	180	gp	page	188	Rare 
+Prayer Bead - Bless 	cost	2000	gp	page	182	Rare 
+Prayer Bead - Curing 	cost	4000	gp	page	182	Rare 
+Prayer Bead - Favor 	cost	32000	gp	page	182	Rare 
+Prayer Bead - Smiting 	cost	1500	gp	page	182	Rare 
+Prayer Bead - Summons	cost	128000	gp	page	182	Rare 
+Prayer Bead - Wind Walking	cost	96000	gp	page	182	Rare 
+Quaal's Feather Token Anchor	cost	50	gp	page	188	Rare 
+Quaal's Feather Token Bird	cost	3000	gp	page	188	Rare 
+Quaal's Feather Token Fan	cost	250	gp	page	188	Rare 
+Quaal's Feather Token Swan Boat	cost	3000	gp	page	188	Rare 
+Ring of Animal Influence	cost	4000	gp	page	189	Rare 
+Ring of Evasion 	cost	5000	gp	page	191	Rare 
+Ring of Feather Falling	cost	2000	gp	page	191	Rare 
+Ring of Free Action 	cost	20000	gp	page	191	Rare 
+Ring of Protection 	cost	3500	gp	page	191	Rare 
+Ring of Resistance 	cost	6000	gp	page	192	Rare 
+Ring of Spell Storing 	cost	24000	gp	page	192	Rare 
+Ring of the Ram 	cost	5000	gp	page	193	Rare 
+Ring of X-Ray Vision 	cost	6000	gp	page	193	Rare 
+Rod of Rulership 	cost	16000	gp	page	197	Rare 
+Rod of the Pact Keeper +1	cost	12000	gp	page	197	Rare 
+Rod of the Pact Keeper +2	cost	16000	gp	page	197	Rare 
+Rope of Entanglement 	cost	4000	gp	page	197	Rare 
+Scroll of Protection 	cost	180	gp	page	199	Rare 
+Serpentine Owl 	cost	8000	gp	page	170	Rare 
+Shield of Missile Attraction	cost	6000	gp	page	200	Rare 
+Silver Horn of Valhalla	cost	5600	gp	page	175	Rare 
+Spell Scroll Level 4 	cost	320	gp	page	200	Rare 
+Spell Scroll Level 5 	cost	640	gp	page	200	Rare 
+Staff of Charming 	cost	12000	gp	page	201	Rare 
+Staff of Healing 	cost	13000	gp	page	202	Rare 
+Staff of Swarming Insects 	cost	16000	gp	page	203	Rare 
+Staff of the Woodlands	cost	44000	gp	page	204	Rare 
+Staff of Withering 	cost	3000	gp	page	205	Rare 
+Stone of Controlling Earth Elementals 	cost	8000	gp	page	205	Rare 
+Sunblade 	cost	12000	gp	page	205	Rare 
+Sword of Life Steeling	cost	1000	gp	page	206	Rare 
+Sword of Sharpness 	cost	1700	gp	page	206	Rare 
+Sword of Wounding 	cost	2000	gp	page	207	Rare 
+Tentacle Rod 	cost	5000	gp	page	208	Rare 
+Vicious Weapon 	cost	350	gp	page	209	Rare 
+Wand of Binding 	cost	10000	gp	page	209	Rare 
+Wand of Enemy Detection	cost	4000	gp	page	210	Rare 
+Wand of Fear 	cost	10000	gp	page	210	Rare 
+Wand of Fireballs 	cost	32000	gp	page	210	Rare 
+Wand of Paralysis 	cost	16000	gp	page	211	Rare 
+Wand of the War Mage +2 	cost	4800	gp	page	212	Rare 
+Wings of Flying 	cost	5000	gp	page	214	Rare 
+
+# VeryRare
++2 Armor 	cost	6000 	gp	page	152	Very Rare 
++3 Shield 	cost	24000 	gp	page	200	Very Rare 
++3 Weapon 	cost	16000 	gp	page	213	Very Rare 
+Ammunition +3 (ea) 	cost	400	gp	page	150	Very Rare 
+Amulet of the Planes 	cost	160000	gp	page	150	Very Rare 
+Animated Shield 	cost	6000	gp	page	151	Very Rare 
+Arrow of Slaying (ea) 	cost	600	gp	page	152	Very Rare 
+Bronze Horn of Valhalla	cost	11200	gp	page	175	Very Rare 
+Carpet of Flying 	cost	12000	gp	page	157	Very Rare 
+Cloak of Arachnida 	cost	5000	gp	page	158	Very Rare 
+Crystal Ball 	cost	50000	gp	page	159	Very Rare 
+Dancing Sword 	cost	2000	gp	page	160	Very Rare 
+Dragon Scale Mail 	cost	4000	gp	page	165	Very Rare 
+Dwarven Plate 	cost	9000	gp	page	167	Very Rare 
+Dwarven Thrower 	cost	18000	gp	page	167	Very Rare 
+Frost Brand 	cost	2200	gp	page	171	Very Rare 
+Horseshoes of the Zephyr 	cost	1500	gp	page	175	Very Rare 
+Instrument of the Bards - Anstruth Harp 	cost	109000	gp	page	176	Very Rare 
+Ioun Stone Absorption	cost	2400	gp	page	177	Very Rare 
+Ioun Stone Agility 	cost	3000	gp	page	177	Very Rare 
+Ioun Stone Fortitude 	cost	3000	gp	page	177	Very Rare 
+Ioun Stone Insight 	cost	3000	gp	page	177	Very Rare 
+Ioun Stone Intellect 	cost	3000	gp	page	177	Very Rare 
+Ioun Stone Leadership 	cost	3000	gp	page	177	Very Rare 
+Ioun Stone Strength 	cost	3000	gp	page	177	Very Rare 
+Mirror of Life Trapping	cost	18000	gp	page	181	Very Rare 
+Nine Lives Stealer (Fully Charged) 	cost	8000	gp	page	183	Very Rare 
+Nolzur's Marvelous Pigments 	cost	200	gp	page	183	Very Rare 
+Oathbow 	cost	3500	gp	page	183	Very Rare 
+Obsidian Steed 	cost	128000	gp	page	170	Very Rare 
+Oil of Sharpness 	cost	3200	gp	page	184	Very Rare 
+Potion of Flying 	cost	500	gp	page	187	Very Rare 
+Potion of Invisibility 	cost	180	gp	page	188	Very Rare 
+Potion of Longevity 	cost	9000	gp	page	188	Very Rare 
+Potion of Speed 	cost	400	gp	page	188	Very Rare 
+Potion of Superior Healing 	cost	450	gp	page	187	Very Rare 
+Potion of Supreme Healing 	cost	1350	gp	page	187	Very Rare 
+Potion of Vitality 	cost	960	gp	page	188	Very Rare 
+Ring of Regeneration 	cost	12000	gp	page	191	Very Rare 
+Ring of Shooting Stars 	cost	14000	gp	page	192	Very Rare 
+Ring of Telekinesis 	cost	80000	gp	page	193	Very Rare 
+Robe of Scintillating Colors 	cost	6000	gp	page	194	Very Rare 
+Robe of Stars 	cost	60000	gp	page	194	Very Rare 
+Rod of Absorption 	cost	50000	gp	page	195	Very Rare 
+Rod of Alertness 	cost	25000	gp	page	195	Very Rare 
+Rod of Security 	cost	90000	gp	page	197	Very Rare 
+Rod of the Pact Keeper +3	cost	28000	gp	page	197	Very Rare 
+Scimitar of Speed 	cost	6000	gp	page	199	Very Rare 
+Spell Scroll Level 6 	cost	1280	gp	page	200	Very Rare 
+Spell Scroll Level 7 	cost	2560	gp	page	200	Very Rare 
+Spell Scroll Level 8 	cost	5120	gp	page	200	Very Rare 
+Spellguard Shield 	cost	50000	gp	page	201	Very Rare 
+Staff of Fire 	cost	16000	gp	page	201	Very Rare 
+Staff of Frost 	cost	26000	gp	page	201	Very Rare 
+Staff of Power 	cost	95500	gp	page	202	Very Rare 
+Staff of Striking 	cost	21000	gp	page	203	Very Rare 
+Staff of Thunder and Lightning 	cost	10000	gp	page	204	Very Rare 
+Wand of Polymorph 	cost	32000	gp	page	211	Very Rare 
+Wand of the War Mage +3 	cost	19200	gp	page	212	Very Rare 
+
+# Legendary
++3 Armor 	cost	24000 	gp	page	152	Legendary 
+Apparatus of Kwalish 	cost	10000	gp	page	151	Legendary 
+Armor of Invulnerability	cost	18000	gp	page	152	Legendary 
+Cloak of Invisibility 	cost	80000	gp	page	158	Legendary 
+Cubic Gate 	cost	40000	gp	page	160	Legendary 
+Defender 	cost	24000	gp	page	164	Legendary 
+Efreeti Chain 	cost	20000	gp	page	167	Legendary 
+Hammer of Thunderbolts	cost	16000	gp	page	173	Legendary 
+Holy Avenger 	cost	165000	gp	page	174	Legendary 
+Instrument of the Bards - Ollamh Harp 	cost	125000	gp	page	176	Legendary 
+Ioun Stone Greater Absorption 	cost	31000	gp	page	177	Legendary 
+Ioun Stone Mastery 	cost	15000	gp	page	177	Legendary 
+Ioun Stone Regeneration	cost	4000	gp	page	177	Legendary 
+Iron Horn of Valhalla	cost	14000	gp	page	175	Legendary 
+Plate Armor of Ethe­realness 	cost	48000	gp	page	185	Legendary 
+Ring of Air Elemental Command 	cost	35000	gp	page	190	Legendary 
+Ring of Earth Elemental Command	cost	31000	gp	page	190	Legendary 
+Ring of Fire Elemen­tal Command 	cost	17000	gp	page	190	Legendary 
+Ring of Invisibility 	cost	10000	gp	page	191	Legendary 
+Ring of Spell Turning 	cost	30000	gp	page	193	Legendary 
+Ring of Water Elemental Command	cost	25000	gp	page	191	Legendary 
+Robe of the Archmagi 	cost	34000	gp	page	194	Legendary 
+Rod of Lordly Might 	cost	28000	gp	page	195	Legendary 
+Scarab of Protection 	cost	36000	gp	page	199	Legendary 
+Sovereign Glue 	cost	400	gp	page	200	Legendary 
+Spell Scroll Level 9 	cost	10240	gp	page	200	Legendary 
+Sphere of Annihilation	cost	15000	gp	page	201	Legendary 
+Sword of Answering 	cost	36000	gp	page	206	Legendary 
+Talisman of Pure Good 	cost	71680	gp	page	207	Legendary 
+Talisman of the Sphere 	cost	20000	gp	page	207	Legendary 
+Talisman of Ultimate Evil 	cost	61440	gp	page	207	Legendary 
+Universal Solvent 	cost	300	gp	page	209	Legendary 
+Vorpal Sword 	cost	24000	gp	page	209	Legendary 
+
+# PotionsCommon
+Potion of Climbing 	cost	180	gp	page	187	Common 
+Potion of Healing 	cost	50	gp	page	187	Common 
+
+# PotionsUncommon
+Potion of Greater Healing 	cost	150	gp	page	187	Uncommon 
+Potion of Growth 	cost	270	gp	page	187	Uncommon 
+Potion of Animal Friendship 	cost	200	gp	page	187	Uncommon 
+Potion of Fire Breath 	cost	150	gp	page	187	Uncommon 
+Potion of Poison 	cost	100	gp	page	188	Uncommon 
+Potion of Resistance 	cost	300	gp	page	188	Uncommon 
+Potion of Water Breathing 	cost	180	gp	page	188	Uncommon 
+
+# PotionsRare
+Potion of Diminution 	cost	270	gp	page	187	Rare 
+Potion of Heroism 	cost	180	gp	page	188	Rare 
+Potion of Invulnerability	cost	3840	gp	page	188	Rare 
+Potion of Gaseous Form 	cost	300	gp	page	187	Rare 
+Potion of Mind Reading	cost	180	gp	page	188	Rare 
+Potion of Clairvoyance	cost	960	gp	page	187	Rare 
+
+# PotionsVeryRare
+Potion of Invisibility 	cost	180	gp	page	188	Very Rare 
+Potion of Flying 	cost	500	gp	page	187	Very Rare 
+Potion of Longevity 	cost	9000	gp	page	188	Very Rare 
+Potion of Speed 	cost	400	gp	page	188	Very Rare 
+Potion of Superior Healing 	cost	450	gp	page	187	Very Rare 
+Potion of Supreme Healing 	cost	1350	gp	page	187	Very Rare 
+Potion of Vitality 	cost	960	gp	page	188	Very Rare 
+
+# RingsUncommon
+Ring of Jumping 	cost	2500	gp	page	191	Uncommon 
+Ring of Mind Shielding	cost	16000	gp	page	191	Uncommon 
+Ring of Swimming 	cost	3000	gp	page	193	Uncommon 
+Ring of Warmth 	cost	1000	gp	page	193	Uncommon 
+Ring of Water Walking	cost	1500	gp	page	193	Uncommon 
+
+# RingsRare
+Ring of Animal Influence	cost	4000	gp	page	189	Rare 
+Ring of Evasion 	cost	5000	gp	page	191	Rare 
+Ring of Feather Falling	cost	2000	gp	page	191	Rare 
+Ring of Free Action 	cost	20000	gp	page	191	Rare 
+Ring of Protection 	cost	3500	gp	page	191	Rare 
+Ring of Resistance 	cost	6000	gp	page	192	Rare
+Ring of Spell Storing 	cost	24000	gp	page	192	Rare 
+Ring of X-Ray Vision 	cost	6000	gp	page	193	Rare 
+Ring of the Ram 	cost	5000	gp	page	193	Rare 
+
+# RingsVeryRare
+Ring of Shooting Stars 	cost	14000	gp	page	192	Very Rare 
+Ring of Regeneration 	cost	12000	gp	page	191	Very Rare 
+Ring of Telekinesis 	cost	80000	gp	page	193	Very Rare 
+
+
+# Rings Lendary
+Ring of Air Elemental Command 	cost	35000	gp	page	190	Legendary 
+Ring of Earth Elemental Command	cost	31000	gp	page	190	Legendary 
+Ring of Fire Elemental Command 	cost	17000	gp	page	190	Legendary 
+Ring of Invisibility 	cost	10000	gp	page	191	Legendary 
+Ring of Water Elemental Command	cost	25000	gp	page	191	Legendary 
+Ring of Spell Turning 	cost	30000	gp	page	193	Legendary 
